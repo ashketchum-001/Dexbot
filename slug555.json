@@ -1,0 +1,5541 @@
+{
+  "slugs": [
+    {
+      "name": "Flatulorhinkus",
+      "type": "Fire",
+      "imageLink": "https://graph.org/file/619daeb8cac94c0443bf0.jpg",
+      "baseStats": {
+        "attack": 20,
+        "defense": 10,
+        "speed": 15,
+        "HP": 11
+      },
+      "basicMove": {
+        "name": "Gas Blast",
+        "type": "Fire",
+        "damage": 20,
+        "power": 40,
+        "expRequired": 0,
+        "energyCost": 5
+      },
+      "normalMoves": [
+        {
+          "name": "Fart Flame",
+          "type": "Fire",
+          "damage": 30,
+          "power": 50,
+          "expRequired": 100,
+          "energyCost": 10
+        },
+        {
+          "name": "Odor Strike",
+          "type": "Fire",
+          "damage": 40,
+          "power": 60,
+          "expRequired": 200,
+          "energyCost": 15
+        }
+      ],
+      "specialMoves": [
+        {
+          "name": "Toxic Eruption",
+          "type": "Fire",
+          "damage": 50,
+          "power": 70,
+          "energyCost": 20,
+          "expRequired": 300
+        },
+        {
+          "name": "Stink Wave",
+          "type": "Fire",
+          "damage": 60,
+          "power": 80,
+          "energyCost": 25,
+          "expRequired": 400
+        }
+      ],
+      "maxEP": 100,
+      "transform": "https://graph.org/file/fc1c63b77ff7dcf717592.jpg"
+    },
+    {
+      "name": "Bubbaleone",
+      "type": "Water",
+      "imageLink": "https://graph.org/file/79878f4a83d596eedaff6.jpg",
+      "baseStats": {
+        "attack": 15,
+        "defense": 12,
+        "speed": 18,
+        "HP": 18
+      },
+      "basicMove": {
+        "name": "Bubble Burst",
+        "type": "Water",
+        "damage": 18,
+        "power": 38,
+        "expRequired": 0,
+        "energyCost": 5
+      },
+      "normalMoves": [
+        {
+          "name": "Aqua Jet",
+          "type": "Water",
+          "damage": 28,
+          "power": 48,
+          "expRequired": 100,
+          "energyCost": 10
+        },
+        {
+          "name": "Foam Strike",
+          "type": "Water",
+          "damage": 38,
+          "power": 58,
+          "expRequired": 200,
+          "energyCost": 15
+        }
+      ],
+      "specialMoves": [
+        {
+          "name": "Tidal Wave",
+          "type": "Water",
+          "damage": 48,
+          "power": 68,
+          "energyCost": 20,
+          "expRequired": 300
+        },
+        {
+          "name": "Bubble Storm",
+          "type": "Water",
+          "damage": 58,
+          "power": 78,
+          "energyCost": 25,
+          "expRequired": 400
+        }
+      ],
+      "maxEP": 100,
+      "transform": "https://graph.org/file/a93ef4c12823eab14b953.jpg"
+    },
+    {
+      "name": "Jellyish",
+      "type": "Electric",
+      "imageLink": "https://graph.org/file/3de8802afcd731bba5fac.jpg",
+      "baseStats": {
+        "attack": 25,
+        "defense": 8,
+        "speed": 20,
+        "HP": 15
+      },
+      "basicMove": {
+        "name": "Stingy Splash",
+        "type": "Electric",
+        "damage": 22,
+        "power": 42,
+        "expRequired": 0,
+        "energyCost": 5
+      },
+      "normalMoves": [
+        {
+          "name": "Aqua Zap",
+          "type": "Electric",
+          "damage": 32,
+          "power": 52,
+          "expRequired": 100,
+          "energyCost": 10
+        },
+        {
+          "name": "Tentacle Strike",
+          "type": "Electric",
+          "damage": 42,
+          "power": 62,
+          "expRequired": 200,
+          "energyCost": 15
+        }
+      ],
+      "specialMoves": [
+        {
+          "name": "Electric Shock",
+          "type": "Electric",
+          "damage": 52,
+          "power": 72,
+          "energyCost": 20,
+          "expRequired": 300
+        },
+        {
+          "name": "Jelly Slap",
+          "type": "Electric",
+          "damage": 62,
+          "power": 82,
+          "energyCost": 25,
+          "expRequired": 400
+        }
+      ],
+      "maxEP": 100,
+      "transform": "https://graph.org/file/edc31d6c17caacba7d9ca.jpg"
+    },
+    {
+      "name": "Vinedrill",
+      "type": "Plant",
+      "imageLink": "https://graph.org/file/4013eb3bc34ad3349a1b3.jpg",
+      "baseStats": {
+        "attack": 18,
+        "defense": 14,
+        "speed": 16,
+        "HP": 21
+      },
+      "basicMove": {
+        "name": "Thorn Strike",
+        "type": "Plant",
+        "damage": 22,
+        "power": 42,
+        "expRequired": 0,
+        "energyCost": 5
+      },
+      "normalMoves": [
+        {
+          "name": "Leaf Blade",
+          "type": "Plant",
+          "damage": 32,
+          "power": 52,
+          "expRequired": 100,
+          "energyCost": 10
+        },
+        {
+          "name": "Vine Whip",
+          "type": "Plant",
+          "damage": 42,
+          "power": 62,
+          "expRequired": 200,
+          "energyCost": 15
+        }
+      ],
+      "specialMoves": [
+        {
+          "name": "Jungle Fury",
+          "type": "Plant",
+          "damage": 52,
+          "power": 72,
+          "energyCost": 20,
+          "expRequired": 300
+        },
+        {
+          "name": "Root Rampage",
+          "type": "Plant",
+          "damage": 62,
+          "power": 82,
+          "energyCost": 25,
+          "expRequired": 400
+        }
+      ],
+      "maxEP": 100,
+      "transform": "https://graph.org/file/3ba6446e6c53d47ba9839.jpg"
+    },
+    {
+      "name": "Aquabeek",
+      "type": "Water",
+      "imageLink": "https://graph.org/file/f5b029d49b80a432d9094.jpg",
+      "baseStats": {
+        "attack": 20,
+        "defense": 12,
+        "speed": 14,
+        "HP": 18
+      },
+      "basicMove": {
+        "name": "Aqua Strike",
+        "type": "Water",
+        "damage": 24,
+        "power": 44,
+        "expRequired": 0,
+        "energyCost": 5
+      },
+      "normalMoves": [
+        {
+          "name": "Hydro Blast",
+          "type": "Water",
+          "damage": 34,
+          "power": 54,
+          "expRequired": 100,
+          "energyCost": 10
+        },
+        {
+          "name": "Tidal Surge",
+          "type": "Water",
+          "damage": 44,
+          "power": 64,
+          "expRequired": 200,
+          "energyCost": 15
+        }
+      ],
+      "specialMoves": [
+        {
+          "name": "Whirlpool Strike",
+          "type": "Water",
+          "damage": 54,
+          "power": 74,
+          "energyCost": 20,
+          "expRequired": 300
+        },
+        {
+          "name": "Aqua Vortex",
+          "type": "Water",
+          "damage": 64,
+          "power": 84,
+          "energyCost": 25,
+          "expRequired": 400
+        }
+      ],
+      "maxEP": 100,
+      "transform": "https://graph.org/file/680a7d26f120380f5609d.jpg"
+    },
+    {
+      "name": "Fandango",
+      "type": "Air",
+      "imageLink": "https://graph.org/file/d45ad8e5958ee16efeb2e.jpg",
+      "baseStats": {
+        "attack": 16,
+        "defense": 10,
+        "speed": 22,
+        "HP": 20
+      },
+      "basicMove": {
+        "name": "Gust Strike",
+        "type": "Air",
+        "damage": 20,
+        "power": 40,
+        "expRequired": 0,
+        "energyCost": 5
+      },
+      "normalMoves": [
+        {
+          "name": "Tornado Swipe",
+          "type": "Air",
+          "damage": 30,
+          "power": 50,
+          "expRequired": 100,
+          "energyCost": 10
+        },
+        {
+          "name": "Sky Dance",
+          "type": "Air",
+          "damage": 40,
+          "power": 60,
+          "expRequired": 200,
+          "energyCost": 15
+        }
+      ],
+      "specialMoves": [
+        {
+          "name": "Cyclone Strike",
+          "type": "Air",
+          "damage": 50,
+          "power": 70,
+          "energyCost": 20,
+          "expRequired": 300
+        },
+        {
+          "name": "Storm Fury",
+          "type": "Air",
+          "damage": 60,
+          "power": 80,
+          "energyCost": 25,
+          "expRequired": 400
+        }
+      ],
+      "maxEP": 100,
+      "transform": "https://graph.org/file/a53842df474ed88c09420.jpg"
+    },
+    {
+      "name": "Lariat",
+      "type": "Earth",
+      "imageLink": "https://graph.org/file/7dba41b78580ed4599d0c.jpg",
+      "baseStats": {
+        "attack": 22,
+        "defense": 16,
+        "speed": 12,
+        "HP": 18
+      },
+      "basicMove": {
+        "name": "Rock Smash",
+        "type": "Earth",
+        "damage": 26,
+        "power": 46,
+        "expRequired": 0,
+        "energyCost": 5
+      },
+      "normalMoves": [
+        {
+          "name": "Quake Strike",
+          "type": "Earth",
+          "damage": 36,
+          "power": 56,
+          "expRequired": 100,
+          "energyCost": 10
+        },
+        {
+          "name": "Tremor Slam",
+          "type": "Earth",
+          "damage": 46,
+          "power": 66,
+          "expRequired": 200,
+          "energyCost": 15
+        }
+      ],
+      "specialMoves": [
+        {
+          "name": "Earthquake",
+          "type": "Earth",
+          "damage": 56,
+          "power": 76,
+          "energyCost": 20,
+          "expRequired": 300
+        },
+        {
+          "name": "Rockslide",
+          "type": "Earth",
+          "damage": 66,
+          "power": 86,
+          "energyCost": 25,
+          "expRequired": 400
+        }
+      ],
+      "maxEP": 100,
+      "transform": "https://graph.org/file/da1b4080db87556b1a443.jpg"
+    },
+    {
+      "name": "Polero",
+      "type": "Ice",
+      "imageLink": "https://graph.org/file/1188188bfb1e28fb3412f.jpg",
+      "baseStats": {
+        "attack": 18,
+        "defense": 20,
+        "speed": 12,
+        "HP": 20
+      },
+      "basicMove": {
+        "name": "Ice Strike",
+        "type": "Ice",
+        "damage": 22,
+        "power": 42,
+        "expRequired": 0,
+        "energyCost": 5
+      },
+      "normalMoves": [
+        {
+          "name": "Frostbite",
+          "type": "Ice",
+          "damage": 32,
+          "power": 52,
+          "expRequired": 100,
+          "energyCost": 10
+        },
+        {
+          "name": "Snowstorm",
+          "type": "Ice",
+          "damage": 42,
+          "power": 62,
+          "expRequired": 200,
+          "energyCost": 15
+        }
+      ],
+      "specialMoves": [
+        {
+          "name": "Blizzard",
+          "type": "Ice",
+          "damage": 52,
+          "power": 72,
+          "energyCost": 20,
+          "expRequired": 300
+        },
+        {
+          "name": "Icicle Spear",
+          "type": "Ice",
+          "damage": 62,
+          "power": 82,
+          "energyCost": 25,
+          "expRequired": 400
+        }
+      ],
+      "maxEP": 100,
+      "transform": "https://graph.org/file/436ba4a03f0def4e9d30f.jpg"
+    },
+    {
+      "name": "Phosphoro",
+      "type": "Light",
+      "imageLink": "https://graph.org/file/6ed9af55bbcbf5beca717.jpg",
+      "baseStats": {
+        "attack": 14,
+        "defense": 16,
+        "speed": 24,
+        "HP": 12
+      },
+      "basicMove": {
+        "name": "Flash Strike",
+        "type": "Light",
+        "damage": 18,
+        "power": 38,
+        "expRequired": 0,
+        "energyCost": 5
+      },
+      "normalMoves": [
+        {
+          "name": "Luminous Beam",
+          "type": "Light",
+          "damage": 28,
+          "power": 48,
+          "expRequired": 100,
+          "energyCost": 10
+        },
+        {
+          "name": "Solar Flare",
+          "type": "Light",
+          "damage": 38,
+          "power": 58,
+          "expRequired": 200,
+          "energyCost": 15
+        }
+      ],
+      "specialMoves": [
+        {
+          "name": "Radiant Burst",
+          "type": "Light",
+          "damage": 48,
+          "power": 68,
+          "energyCost": 20,
+          "expRequired": 300
+        },
+        {
+          "name": "Dazzling Strike",
+          "type": "Light",
+          "damage": 58,
+          "power": 78,
+          "energyCost": 25,
+          "expRequired": 400
+        }
+      ],
+      "maxEP": 100,
+      "transform": "https://graph.org/file/02183730fb42517c83666.jpg"
+    },
+    {
+      "name": "Tormato",
+      "type": "Wind",
+      "imageLink": "https://graph.org/file/c3ab806c210e7b1daabfb.jpg",
+      "baseStats": {
+        "attack": 20,
+        "defense": 10,
+        "speed": 20,
+        "HP": 22
+      },
+      "basicMove": {
+        "name": "Gale Strike",
+        "type": "Wind",
+        "damage": 24,
+        "power": 44,
+        "expRequired": 0,
+        "energyCost": 5
+      },
+      "normalMoves": [
+        {
+          "name": "Cyclone Slash",
+          "type": "Wind",
+          "damage": 34,
+          "power": 54,
+          "expRequired": 100,
+          "energyCost": 10
+        },
+        {
+          "name": "Whirlwind",
+          "type": "Wind",
+          "damage": 44,
+          "power": 64,
+          "expRequired": 200,
+          "energyCost": 15
+        }
+      ],
+      "specialMoves": [
+        {
+          "name": "Tornado Fury",
+          "type": "Wind",
+          "damage": 54,
+          "power": 74,
+          "energyCost": 20,
+          "expRequired": 300
+        },
+        {
+          "name": "Tempest Strike",
+          "type": "Wind",
+          "damage": 64,
+          "power": 84,
+          "energyCost": 25,
+          "expRequired": 400
+        }
+      ],
+      "maxEP": 100,
+      "transform": "https://graph.org/file/979772698678a1abaacee.jpg"
+    },
+    {
+      "name": "Flaringo",
+      "type": "Fire",
+      "imageLink": "https://graph.org/file/54e4819fba68c41b969c6.jpg",
+      "baseStats": {
+        "attack": 24,
+        "defense": 14,
+        "speed": 16,
+        "HP": 22
+      },
+      "basicMove": {
+        "name": "Fire Peck",
+        "type": "Fire",
+        "damage": 28,
+        "power": 48,
+        "expRequired": 0,
+        "energyCost": 5
+      },
+      "normalMoves": [
+        {
+          "name": "Blazing Wings",
+          "type": "Fire",
+          "damage": 38,
+          "power": 58,
+          "expRequired": 100,
+          "energyCost": 10
+        },
+        {
+          "name": "Ember Storm",
+          "type": "Fire",
+          "damage": 48,
+          "power": 68,
+          "expRequired": 200,
+          "energyCost": 15
+        }
+      ],
+      "specialMoves": [
+        {
+          "name": "Inferno Dive",
+          "type": "Fire",
+          "damage": 58,
+          "power": 78,
+          "energyCost": 20,
+          "expRequired": 300
+        },
+        {
+          "name": "Flame Tornado",
+          "type": "Fire",
+          "damage": 68,
+          "power": 88,
+          "energyCost": 25,
+          "expRequired": 400
+        }
+      ],
+      "maxEP": 100,
+      "transform": "https://graph.org/file/4aa267fbe7eb27742ec58.jpg"
+    },
+    {
+      "name": "DirtUrchin",
+      "type": "Earth",
+      "imageLink": "https://graph.org/file/3766bcf9231f19701fecd.jpg",
+      "baseStats": {
+        "attack": 20,
+        "defense": 22,
+        "speed": 10,
+        "HP": 15
+      },
+      "basicMove": {
+        "name": "Mud Blast",
+        "type": "Earth",
+        "damage": 24,
+        "power": 44,
+        "expRequired": 0,
+        "energyCost": 5
+      },
+      "normalMoves": [
+        {
+          "name": "Rockslide",
+          "type": "Earth",
+          "damage": 34,
+          "power": 54,
+          "expRequired": 100,
+          "energyCost": 10
+        },
+        {
+          "name": "Tremor Strike",
+          "type": "Earth",
+          "damage": 44,
+          "power": 64,
+          "expRequired": 200,
+          "energyCost": 15
+        }
+      ],
+      "specialMoves": [
+        {
+          "name": "Earthquake",
+          "type": "Earth",
+          "damage": 54,
+          "power": 74,
+          "energyCost": 20,
+          "expRequired": 300
+        },
+        {
+          "name": "Mudslide",
+          "type": "Earth",
+          "damage": 64,
+          "power": 84,
+          "energyCost": 25,
+          "expRequired": 400
+        }
+      ],
+      "maxEP": 100,
+      "transform": "https://graph.org/file/a6e72d5b18d631f36f9bb.jpg"
+    },
+    {
+      "name": "Grenuke",
+      "type": "Fire",
+      "imageLink": "https://graph.org/file/b094b99249ef2feaddcb4.jpg",
+      "baseStats": {
+        "attack": 26,
+        "defense": 12,
+        "speed": 18,
+        "HP": 16
+      },
+      "basicMove": {
+        "name": "Explosive Strike",
+        "type": "Fire",
+        "damage": 30,
+        "power": 50,
+        "expRequired": 0,
+        "energyCost": 5
+      },
+      "normalMoves": [
+        {
+          "name": "Blazing Grenade",
+          "type": "Fire",
+          "damage": 40,
+          "power": 60,
+          "expRequired": 100,
+          "energyCost": 10
+        },
+        {
+          "name": "Pyro Burst",
+          "type": "Fire",
+          "damage": 50,
+          "power": 70,
+          "expRequired": 200,
+          "energyCost": 15
+        }
+      ],
+      "specialMoves": [
+        {
+          "name": "Inferno Blast",
+          "type": "Fire",
+          "damage": 60,
+          "power": 80,
+          "energyCost": 20,
+          "expRequired": 300
+        },
+        {
+          "name": "Firestorm",
+          "type": "Fire",
+          "damage": 70,
+          "power": 90,
+          "energyCost": 25,
+          "expRequired": 400
+        }
+      ],
+      "maxEP": 100,
+      "transform": "https://graph.org/file/b7f392cb24d9ba8552664.jpg"
+    },
+    {
+      "name": "Hypnogrif",
+      "type": "Psychic",
+      "imageLink": "https://graph.org/file/1aa88fac11ada0b763a5f.jpg",
+      "baseStats": {
+        "attack": 22,
+        "defense": 16,
+        "speed": 20,
+        "HP": 21
+      },
+      "basicMove": {
+        "name": "Mind Strike",
+        "type": "Psychic",
+        "damage": 26,
+        "power": 46,
+        "expRequired": 0,
+        "energyCost": 5
+      },
+      "normalMoves": [
+        {
+          "name": "Psychic Wave",
+          "type": "Psychic",
+          "damage": 36,
+          "power": 56,
+          "expRequired": 100,
+          "energyCost": 10
+        },
+        {
+          "name": "Dream Eater",
+          "type": "Psychic",
+          "damage": 46,
+          "power": 66,
+          "expRequired": 200,
+          "energyCost": 15
+        }
+      ],
+      "specialMoves": [
+        {
+          "name": "Hypnosis",
+          "type": "Psychic",
+          "damage": 56,
+          "power": 76,
+          "energyCost": 20,
+          "expRequired": 300
+        },
+        {
+          "name": "Psychic Storm",
+          "type": "Psychic",
+          "damage": 66,
+          "power": 86,
+          "energyCost": 25,
+          "expRequired": 400
+        }
+      ],
+      "maxEP": 100,
+      "transform": "https://graph.org/file/90580123f4b2c4e3998d0.jpg"
+    },
+    {
+      "name": "Diggrix",
+      "type": "Earth",
+      "imageLink": "https://graph.org/file/4e72df3b52635fd206df1.jpg",
+      "baseStats": {
+        "attack": 24,
+        "defense": 18,
+        "speed": 14,
+        "HP": 21
+      },
+      "basicMove": {
+        "name": "Dig Strike",
+        "type": "Earth",
+        "damage": 28,
+        "power": 48,
+        "expRequired": 0,
+        "energyCost": 5
+      },
+      "normalMoves": [
+        {
+          "name": "Tunnel Dive",
+          "type": "Earth",
+          "damage": 38,
+          "power": 58,
+          "expRequired": 100,
+          "energyCost": 10
+        },
+        {
+          "name": "Rockslide",
+          "type": "Earth",
+          "damage": 48,
+          "power": 68,
+          "expRequired": 200,
+          "energyCost": 15
+        }
+      ],
+      "specialMoves": [
+        {
+          "name": "Earthquake",
+          "type": "Earth",
+          "damage": 58,
+          "power": 78,
+          "energyCost": 20,
+          "expRequired": 300
+        },
+        {
+          "name": "Subterranean Fury",
+          "type": "Earth",
+          "damage": 68,
+          "power": 88,
+          "energyCost": 25,
+          "expRequired": 400
+        }
+      ],
+      "maxEP": 100,
+      "transform": "https://graph.org/file/9a486ac7cb75bdb2abc93.jpg"
+    },
+    {
+      "name": "Xmitter",
+      "type": "Electric",
+      "imageLink": "https://graph.org/file/9d78099a9b098012dc5f6.jpg",
+      "baseStats": {
+        "attack": 26,
+        "defense": 12,
+        "speed": 18,
+        "HP": 20
+      },
+      "basicMove": {
+        "name": "Shock Strike",
+        "type": "Electric",
+        "damage": 30,
+        "power": 50,
+        "expRequired": 0,
+        "energyCost": 5
+      },
+      "normalMoves": [
+        {
+          "name": "Electric Surge",
+          "type": "Electric",
+          "damage": 40,
+          "power": 60,
+          "expRequired": 100,
+          "energyCost": 10
+        },
+        {
+          "name": "Voltage Wave",
+          "type": "Electric",
+          "damage": 50,
+          "power": 70,
+          "expRequired": 200,
+          "energyCost": 15
+        }
+      ],
+      "specialMoves": [
+        {
+          "name": "Thunder Strike",
+          "type": "Electric",
+          "damage": 60,
+          "power": 80,
+          "energyCost": 20,
+          "expRequired": 300
+        },
+        {
+          "name": "Electrostorm",
+          "type": "Electric",
+          "damage": 70,
+          "power": 90,
+          "energyCost": 25,
+          "expRequired": 400
+        }
+      ],
+      "maxEP": 100,
+      "transform": "https://graph.org/file/71345ff3472aa97d9163d.jpg"
+    },
+    {
+      "name": "Sandangler",
+      "type": "Earth",
+      "imageLink": "https://graph.org/file/d08add39d5d4c075d801b.jpg",
+      "baseStats": {
+        "attack": 22,
+        "defense": 20,
+        "speed": 14,
+        "HP": 22
+      },
+      "basicMove": {
+        "name": "Sand Strike",
+        "type": "Earth",
+        "damage": 26,
+        "power": 46,
+        "expRequired": 0,
+        "energyCost": 5
+      },
+      "normalMoves": [
+        {
+          "name": "Quicksand Grasp",
+          "type": "Earth",
+          "damage": 36,
+          "power": 56,
+          "expRequired": 100,
+          "energyCost": 10
+        },
+        {
+          "name": "Earth Tremor",
+          "type": "Earth",
+          "damage": 46,
+          "power": 66,
+          "expRequired": 200,
+          "energyCost": 15
+        }
+      ],
+      "specialMoves": [
+        {
+          "name": "Sandstorm",
+          "type": "Earth",
+          "damage": 56,
+          "power": 76,
+          "energyCost": 20,
+          "expRequired": 300
+        },
+        {
+          "name": "Avalanche Strike",
+          "type": "Earth",
+          "damage": 66,
+          "power": 86,
+          "energyCost": 25,
+          "expRequired": 400
+        }
+      ],
+      "maxEP": 100,
+      "transform": "https://graph.org/file/2c6b005efe77d0d13d651.jpg"
+    },
+    {
+      "name": "Hexlet",
+      "type": "Electric",
+      "imageLink": "https://graph.org/file/8f1189cf5642ccfdd346f.jpg",
+      "baseStats": {
+        "attack": 24,
+        "defense": 16,
+        "speed": 20,
+        "HP": 23
+      },
+      "basicMove": {
+        "name": "Electric Shock",
+        "type": "Electric",
+        "damage": 28,
+        "power": 48,
+        "expRequired": 0,
+        "energyCost": 5
+      },
+      "normalMoves": [
+        {
+          "name": "Volt Strike",
+          "type": "Electric",
+          "damage": 38,
+          "power": 58,
+          "expRequired": 100,
+          "energyCost": 10
+        },
+        {
+          "name": "Thunderwave",
+          "type": "Electric",
+          "damage": 48,
+          "power": 68,
+          "expRequired": 200,
+          "energyCost": 15
+        }
+      ],
+      "specialMoves": [
+        {
+          "name": "Lightning Strike",
+          "type": "Electric",
+          "damage": 58,
+          "power": 78,
+          "energyCost": 20,
+          "expRequired": 300
+        },
+        {
+          "name": "Electroshock",
+          "type": "Electric",
+          "damage": 68,
+          "power": 88,
+          "energyCost": 25,
+          "expRequired": 400
+        }
+      ],
+      "maxEP": 100,
+      "transform": "https://graph.org/file/9399d725a2e0c9022732a.jpg"
+    },
+    {
+      "name": "Neotox",
+      "type": "Water",
+      "imageLink": "https://graph.org/file/6e977644b7b4c0b5bb416.jpg",
+      "baseStats": {
+        "attack": 18,
+        "defense": 18,
+        "speed": 18,
+        "HP": 16
+      },
+      "basicMove": {
+        "name": "Toxic Bite",
+        "type": "Water",
+        "damage": 22,
+        "power": 42,
+        "expRequired": 0,
+        "energyCost": 5
+      },
+      "normalMoves": [
+        {
+          "name": "Venom Strike",
+          "type": "Water",
+          "damage": 32,
+          "power": 52,
+          "expRequired": 100,
+          "energyCost": 10
+        },
+        {
+          "name": "Aqua Toxin",
+          "type": "Water",
+          "damage": 42,
+          "power": 62,
+          "expRequired": 200,
+          "energyCost": 15
+        }
+      ],
+      "specialMoves": [
+        {
+          "name": "Toxic Deluge",
+          "type": "Water",
+          "damage": 52,
+          "power": 72,
+          "energyCost": 20,
+          "expRequired": 300
+        },
+        {
+          "name": "Biohazard Strike",
+          "type": "Water",
+          "damage": 62,
+          "power": 82,
+          "energyCost": 25,
+          "expRequired": 400
+        }
+      ],
+      "maxEP": 100,
+      "transform": "https://graph.org/file/57478cab563503a968e49.jpg"
+    },
+    {
+      "name": "Gazzer",
+      "type": "Air",
+      "imageLink": "https://graph.org/file/cf7f632e0c1706f09764f.jpg",
+      "baseStats": {
+        "attack": 20,
+        "defense": 12,
+        "speed": 22,
+        "HP": 18
+      },
+      "basicMove": {
+        "name": "Air Blast",
+        "type": "Air",
+        "damage": 24,
+        "power": 44,
+        "expRequired": 0,
+        "energyCost": 5
+      },
+      "normalMoves": [
+        {
+          "name": "Whirlwind Strike",
+          "type": "Air",
+          "damage": 34,
+          "power": 54,
+          "expRequired": 100,
+          "energyCost": 10
+        },
+        {
+          "name": "Cyclone Fury",
+          "type": "Air",
+          "damage": 44,
+          "power": 64,
+          "expRequired": 200,
+          "energyCost": 15
+        }
+      ],
+      "specialMoves": [
+        {
+          "name": "Tornado Blast",
+          "type": "Air",
+          "damage": 54,
+          "power": 74,
+          "energyCost": 20,
+          "expRequired": 300
+        },
+        {
+          "name": "Storm Surge",
+          "type": "Air",
+          "damage": 64,
+          "power": 84,
+          "energyCost": 25,
+          "expRequired": 400
+        }
+      ],
+      "maxEP": 100,
+      "transform": "https://graph.org/file/a3f703eb5d99939312972.jpg"
+    },
+    {
+      "name": "Ceoshard",
+      "type": "Light",
+      "imageLink": "https://graph.org/file/8e79ffd4fdf5befcd2afe.jpg",
+      "baseStats": {
+        "attack": 16,
+        "defense": 20,
+        "speed": 16,
+        "HP": 20
+      },
+      "basicMove": {
+        "name": "Shining Strike",
+        "type": "Light",
+        "damage": 20,
+        "power": 40,
+        "expRequired": 0,
+        "energyCost": 5
+      },
+      "normalMoves": [
+        {
+          "name": "Solar Beam",
+          "type": "Light",
+          "damage": 30,
+          "power": 50,
+          "expRequired": 100,
+          "energyCost": 10
+        },
+        {
+          "name": "Radiant Burst",
+          "type": "Light",
+          "damage": 40,
+          "power": 60,
+          "expRequired": 200,
+          "energyCost": 15
+        }
+      ],
+      "specialMoves": [
+        {
+          "name": "Luminous Wave",
+          "type": "Light",
+          "damage": 50,
+          "power": 70,
+          "energyCost": 20,
+          "expRequired": 300
+        },
+        {
+          "name": "Dazzling Strike",
+          "type": "Light",
+          "damage": 60,
+          "power": 80,
+          "energyCost": 25,
+          "expRequired": 400
+        }
+      ],
+      "maxEP": 100,
+      "transform": "https://graph.org/file/106577d8452c2dc6e3760.jpg"
+    },
+    {
+      "name": "Tazerling",
+      "type": "Electric",
+      "imageLink": "https://graph.org/file/3e743e22caa3b707d22aa.jpg",
+      "baseStats": {
+        "attack": 22,
+        "defense": 12,
+        "speed": 18,
+        "HP": 22
+      },
+      "basicMove": {
+        "name": "Shockwave",
+        "type": "Electric",
+        "damage": 26,
+        "power": 46,
+        "expRequired": 0,
+        "energyCost": 5
+      },
+      "normalMoves": [
+        {
+          "name": "Voltage Strike",
+          "type": "Electric",
+          "damage": 36,
+          "power": 56,
+          "expRequired": 100,
+          "energyCost": 10
+        },
+        {
+          "name": "Thunderclap",
+          "type": "Electric",
+          "damage": 46,
+          "power": 66,
+          "expRequired": 200,
+          "energyCost": 15
+        }
+      ],
+      "specialMoves": [
+        {
+          "name": "Lightning Bolt",
+          "type": "Electric",
+          "damage": 56,
+          "power": 76,
+          "energyCost": 20,
+          "expRequired": 300
+        },
+        {
+          "name": "Electroshock",
+          "type": "Electric",
+          "damage": 66,
+          "power": 86,
+          "energyCost": 25,
+          "expRequired": 400
+        }
+      ],
+      "maxEP": 100,
+      "transform": "https://graph.org/file/39d8e417b1798a416550a.jpg"
+    },
+    {
+      "name": "Hoprock",
+      "type": "Earth",
+      "imageLink": "https://graph.org/file/1c3c4a72ac4dc507c2cb8.jpg",
+      "baseStats": {
+        "attack": 20,
+        "defense": 20,
+        "speed": 16,
+        "HP": 21
+      },
+      "basicMove": {
+        "name": "Rock Hop",
+        "type": "Earth",
+        "damage": 24,
+        "power": 44,
+        "expRequired": 0,
+        "energyCost": 5
+      },
+      "normalMoves": [
+        {
+          "name": "Boulder Slam",
+          "type": "Earth",
+          "damage": 34,
+          "power": 54,
+          "expRequired": 100,
+          "energyCost": 10
+        },
+        {
+          "name": "Mudslide",
+          "type": "Earth",
+          "damage": 44,
+          "power": 64,
+          "expRequired": 200,
+          "energyCost": 15
+        }
+      ],
+      "specialMoves": [
+        {
+          "name": "Earthquake Leap",
+          "type": "Earth",
+          "damage": 54,
+          "power": 74,
+          "energyCost": 20,
+          "expRequired": 300
+        },
+        {
+          "name": "Avalanche Strike",
+          "type": "Earth",
+          "damage": 64,
+          "power": 84,
+          "energyCost": 25,
+          "expRequired": 400
+        }
+      ],
+      "maxEP": 100,
+      "transform": "https://graph.org/file/a5d35e7cfdac6590dea21.jpg"
+    },
+    {
+      "name": "Tresher",
+      "type": "Water",
+      "imageLink": "https://graph.org/file/f760a97e9254d53cf4a31.jpg",
+      "baseStats": {
+        "attack": 24,
+        "defense": 16,
+        "speed": 20,
+        "HP": 11
+      },
+      "basicMove": {
+        "name": "Aqua Swipe",
+        "type": "Water",
+        "damage": 28,
+        "power": 48,
+        "expRequired": 0,
+        "energyCost": 5
+      },
+      "normalMoves": [
+        {
+          "name": "Tidal Slam",
+          "type": "Water",
+          "damage": 38,
+          "power": 58,
+          "expRequired": 100,
+          "energyCost": 10
+        },
+        {
+          "name": "Whirlpool Strike",
+          "type": "Water",
+          "damage": 48,
+          "power": 68,
+          "expRequired": 200,
+          "energyCost": 15
+        }
+      ],
+      "specialMoves": [
+        {
+          "name": "Hydro Torrent",
+          "type": "Water",
+          "damage": 58,
+          "power": 78,
+          "energyCost": 20,
+          "expRequired": 300
+        },
+        {
+          "name": "Tsunami Slash",
+          "type": "Water",
+          "damage": 68,
+          "power": 88,
+          "energyCost": 25,
+          "expRequired": 400
+        }
+      ],
+      "maxEP": 100,
+      "transform": "https://graph.org/file/5bd6a6e6d8418ca436cb8.jpg"
+    },
+    {
+      "name": "Frostcrawler",
+      "type": "Ice",
+      "imageLink": "https://graph.org/file/11c03c99fdff45720b75b.jpg",
+      "baseStats": {
+        "attack": 18,
+        "defense": 20,
+        "speed": 14,
+        "HP": 14
+      },
+      "basicMove": {
+        "name": "Icy Strike",
+        "type": "Ice",
+        "damage": 22,
+        "power": 42,
+        "expRequired": 0,
+        "energyCost": 5
+      },
+      "normalMoves": [
+        {
+          "name": "Frostbite",
+          "type": "Ice",
+          "damage": 32,
+          "power": 52,
+          "expRequired": 100,
+          "energyCost": 10
+        },
+        {
+          "name": "Snowstorm",
+          "type": "Ice",
+          "damage": 42,
+          "power": 62,
+          "expRequired": 200,
+          "energyCost": 15
+        }
+      ],
+      "specialMoves": [
+        {
+          "name": "Blizzard",
+          "type": "Ice",
+          "damage": 52,
+          "power": 72,
+          "energyCost": 20,
+          "expRequired": 300
+        },
+        {
+          "name": "Icicle Spear",
+          "type": "Ice",
+          "damage": 62,
+          "power": 82,
+          "energyCost": 25,
+          "expRequired": 400
+        }
+      ],
+      "maxEP": 100,
+      "transform": "https://graph.org/file/b1c305eed2bcf1597897b.jpg"
+    },
+    {
+      "name": "Arachnet",
+      "type": "Dark",
+      "imageLink": "https://graph.org/file/8219eca04b0f5fa9cfb79.jpg",
+      "baseStats": {
+        "attack": 26,
+        "defense": 18,
+        "speed": 12,
+        "HP": 11
+      },
+      "basicMove": {
+        "name": "Venomous Bite",
+        "type": "Dark",
+        "damage": 30,
+        "power": 50,
+        "expRequired": 0,
+        "energyCost": 5
+      },
+      "normalMoves": [
+        {
+          "name": "Shadow Strike",
+          "type": "Dark",
+          "damage": 40,
+          "power": 60,
+          "expRequired": 100,
+          "energyCost": 10
+        },
+        {
+          "name": "Web Trap",
+          "type": "Dark",
+          "damage": 50,
+          "power": 70,
+          "expRequired": 200,
+          "energyCost": 15
+        }
+      ],
+      "specialMoves": [
+        {
+          "name": "Nightmare Venom",
+          "type": "Dark",
+          "damage": 60,
+          "power": 80,
+          "energyCost": 20,
+          "expRequired": 300
+        },
+        {
+          "name": "Shadowstorm",
+          "type": "Dark",
+          "damage": 70,
+          "power": 90,
+          "energyCost": 25,
+          "expRequired": 400
+        }
+      ],
+      "maxEP": 100,
+      "transform": "https://graph.org/file/702dd64c47062abebd73a.jpg"
+    },
+{
+  "name": "Vamparo",
+  "type": "Dark",
+  "imageLink": "https://telegra.ph/file/7fb79a2fd7cf695ff1e77.jpg",
+  "transform": "https://telegra.ph/file/45d020ea4b6cbda0a026d.jpg",
+  "baseStats": {
+    "attack": 25,
+    "defense": 22,
+    "speed": 27,
+    "HP": 30
+  },
+  "basicMove": {
+    "name": "Shadow Bite",
+    "type": "Dark",
+    "damage": 20,
+    "power": 30,
+    "expRequired": 0,
+    "energyCost": 5
+  },
+  "normalMoves": [
+    {
+      "name": "Night Slash",
+      "type": "Dark",
+      "damage": 30,
+      "power": 40,
+      "expRequired": 100,
+      "energyCost": 10
+    },
+    {
+      "name": "Eclipse Drain",
+      "type": "Dark",
+      "damage": 40,
+      "power": 50,
+      "expRequired": 200,
+      "energyCost": 15
+    }
+  ],
+  "specialMoves": [
+    {
+      "name": "Nocturnal Feast",
+      "type": "Dark",
+      "damage": 50,
+      "power": 60,
+      "energyCost": 20,
+      "expRequired": 300
+    },
+    {
+      "name": "Cursed Embrace",
+      "type": "Dark",
+      "damage": 60,
+      "power": 70,
+      "energyCost": 25,
+      "expRequired": 400
+    }
+  ],
+  "maxEP": 100
+}
+
+  ],
+  "rare": [
+    {
+      "name": "Frightgeist",
+      "type": "Dark",
+      "imageLink": "https://graph.org/file/239d8dfe5c832e4e9f2f3.jpg",
+      "baseStats": {
+        "attack": 35,
+        "defense": 30,
+        "speed": 40,
+        "HP": 31
+      },
+      "basicMove": {
+        "name": "Shadow Strike",
+        "type": "Dark",
+        "damage": 40,
+        "power": 60,
+        "expRequired": 0,
+        "energyCost": 5
+      },
+      "normalMoves": [
+        {
+          "name": "Haunting Howl",
+          "type": "Dark",
+          "damage": 50,
+          "power": 70,
+          "expRequired": 100,
+          "energyCost": 10
+        },
+        {
+          "name": "Phantom Fury",
+          "type": "Dark",
+          "damage": 60,
+          "power": 80,
+          "expRequired": 200,
+          "energyCost": 15
+        }
+      ],
+      "specialMoves": [
+        {
+          "name": "Eclipse Strike",
+          "type": "Dark",
+          "damage": 70,
+          "power": 90,
+          "energyCost": 20,
+          "expRequired": 300
+        },
+        {
+          "name": "Nightmare Nova",
+          "type": "Dark",
+          "damage": 80,
+          "power": 100,
+          "energyCost": 25,
+          "expRequired": 400
+        }
+      ],
+      "maxEP": 100,
+      "transform": "https://graph.org/file/ee0fb35fce55a4968c443.jpg"
+    },
+    {
+      "name": "Speedstinger",
+      "type": "Air",
+      "imageLink": "https://graph.org/file/62c9915b1f6e86cd2599b.jpg",
+      "baseStats": {
+        "attack": 40,
+        "defense": 25,
+        "speed": 45,
+        "HP": 22
+      },
+      "basicMove": {
+        "name": "Sonic Strike",
+        "type": "Air",
+        "damage": 45,
+        "power": 65,
+        "expRequired": 0,
+        "energyCost": 5
+      },
+      "normalMoves": [
+        {
+          "name": "Aero Dash",
+          "type": "Air",
+          "damage": 55,
+          "power": 75,
+          "expRequired": 100,
+          "energyCost": 10
+        },
+        {
+          "name": "Cyclone Fury",
+          "type": "Air",
+          "damage": 65,
+          "power": 85,
+          "expRequired": 200,
+          "energyCost": 15
+        }
+      ],
+      "specialMoves": [
+        {
+          "name": "Mach Tornado",
+          "type": "Air",
+          "damage": 75,
+          "power": 95,
+          "energyCost": 20,
+          "expRequired": 300
+        },
+        {
+          "name": "Sonic Boom",
+          "type": "Air",
+          "damage": 85,
+          "power": 105,
+          "energyCost": 25,
+          "expRequired": 400
+        }
+      ],
+      "maxEP": 100,
+      "transform": "https://graph.org/file/3864864a4603bfb18b851.jpg"
+    },
+    {
+      "name": "Lavalynx",
+      "type": "Fire",
+      "imageLink": "https://graph.org/file/e16128ded8a3e0aee7547.jpg",
+      "baseStats": {
+        "attack": 38,
+        "defense": 36,
+        "speed": 32,
+        "HP": 22
+      },
+      "basicMove": {
+        "name": "Magma Strike",
+        "type": "Fire",
+        "damage": 42,
+        "power": 62,
+        "expRequired": 0,
+        "energyCost": 5
+      },
+      "normalMoves": [
+        {
+          "name": "Lava Burst",
+          "type": "Fire",
+          "damage": 52,
+          "power": 72,
+          "expRequired": 100,
+          "energyCost": 10
+        },
+        {
+          "name": "Inferno Roar",
+          "type": "Fire",
+          "damage": 62,
+          "power": 82,
+          "expRequired": 200,
+          "energyCost": 15
+        }
+      ],
+      "specialMoves": [
+        {
+          "name": "Volcano Eruption",
+          "type": "Fire",
+          "damage": 72,
+          "power": 92,
+          "energyCost": 20,
+          "expRequired": 300
+        },
+        {
+          "name": "Pyroclasmic Wave",
+          "type": "Fire",
+          "damage": 82,
+          "power": 102,
+          "energyCost": 25,
+          "expRequired": 400
+        }
+      ],
+      "maxEP": 100,
+      "transform": "https://graph.org/file/8307e78fd83008b6de914.jpg"
+    },
+    {
+      "name": "Nagashade",
+      "type": "Dark",
+      "imageLink": "https://graph.org/file/6c2866a21ffbaed035d5d.jpg",
+      "baseStats": {
+        "attack": 36,
+        "defense": 38,
+        "speed": 34,
+        "HP": 26
+      },
+      "basicMove": {
+        "name": "Shadow Strike",
+        "type": "Dark",
+        "damage": 40,
+        "power": 60,
+        "expRequired": 0,
+        "energyCost": 5
+      },
+      "normalMoves": [
+        {
+          "name": "Haunting Howl",
+          "type": "Dark",
+          "damage": 50,
+          "power": 70,
+          "expRequired": 100,
+          "energyCost": 10
+        },
+        {
+          "name": "Phantom Fury",
+          "type": "Dark",
+          "damage": 60,
+          "power": 80,
+          "expRequired": 200,
+          "energyCost": 15
+        }
+      ],
+      "specialMoves": [
+        {
+          "name": "Eclipse Strike",
+          "type": "Dark",
+          "damage": 70,
+          "power": 90,
+          "energyCost": 20,
+          "expRequired": 300
+        },
+        {
+          "name": "Nightmare Nova",
+          "type": "Dark",
+          "damage": 80,
+          "power": 100,
+          "energyCost": 25,
+          "expRequired": 400
+        }
+      ],
+      "maxEP": 100,
+      "transform": "https://graph.org/file/e3d6ad28e7545cc7392ee.jpg"
+    },
+    {
+      "name": "Slick Silver",
+      "type": "Metal",
+      "imageLink": "https://graph.org/file/45b2157c29046edf9068b.jpg",
+      "baseStats": {
+        "attack": 37,
+        "defense": 35,
+        "speed": 39,
+        "HP": 27
+      },
+      "basicMove": {
+        "name": "Metallic Strike",
+        "type": "Metal",
+        "damage": 42,
+        "power": 62,
+        "expRequired": 0,
+        "energyCost": 5
+      },
+      "normalMoves": [
+        {
+          "name": "Silver Slash",
+          "type": "Metal",
+          "damage": 52,
+          "power": 72,
+          "expRequired": 100,
+          "energyCost": 10
+        },
+        {
+          "name": "Iron Whirlwind",
+          "type": "Metal",
+          "damage": 62,
+          "power": 82,
+          "expRequired": 200,
+          "energyCost": 15
+        }
+      ],
+      "specialMoves": [
+        {
+          "name": "Titanium Tempest",
+          "type": "Metal",
+          "damage": 72,
+          "power": 92,
+          "energyCost": 20,
+          "expRequired": 300
+        },
+        {
+          "name": "Silverstorm Surge",
+          "type": "Metal",
+          "damage": 82,
+          "power": 102,
+          "energyCost": 25,
+          "expRequired": 400
+        }
+      ],
+      "maxEP": 100,
+      "transform": "https://graph.org/file/dca92133c5e2653074e11.jpg"
+    },
+    {
+      "name": "Makobreaker",
+      "type": "Water",
+      "imageLink": "https://graph.org/file/016d3a26797e062381165.jpg",
+      "baseStats": {
+        "attack": 39,
+        "defense": 37,
+        "speed": 33,
+        "HP": 25
+      },
+      "basicMove": {
+        "name": "Aqua Strike",
+        "type": "Water",
+        "damage": 44,
+        "power": 64,
+        "expRequired": 0,
+        "energyCost": 5
+      },
+      "normalMoves": [
+        {
+          "name": "Tsunami Slash",
+          "type": "Water",
+          "damage": 54,
+          "power": 74,
+          "expRequired": 100,
+          "energyCost": 10
+        },
+        {
+          "name": "Hydro Fury",
+          "type": "Water",
+          "damage": 64,
+          "power": 84,
+          "expRequired": 200,
+          "energyCost": 15
+        }
+      ],
+      "specialMoves": [
+        {
+          "name": "Whirlpool Wrath",
+          "type": "Water",
+          "damage": 74,
+          "power": 94,
+          "energyCost": 20,
+          "expRequired": 300
+        },
+        {
+          "name": "Abyssal Surge",
+          "type": "Water",
+          "damage": 84,
+          "power": 104,
+          "energyCost": 25,
+          "expRequired": 400
+        }
+      ],
+      "maxEP": 100,
+      "transform": "https://graph.org/file/b42fefa6f802ec5e42170.jpg"
+    },
+    {
+      "name": "Blastipede",
+      "type": "Earth",
+      "imageLink": "https://graph.org/file/c6e8c144b4433a5d29857.jpg",
+      "baseStats": {
+        "attack": 37,
+        "defense": 39,
+        "speed": 35,
+        "HP": 29
+      },
+      "basicMove": {
+        "name": "Terra Strike",
+        "type": "Earth",
+        "damage": 42,
+        "power": 62,
+        "expRequired": 0,
+        "energyCost": 5
+      },
+      "normalMoves": [
+        {
+          "name": "Quake Slam",
+          "type": "Earth",
+          "damage": 52,
+          "power": 72,
+          "expRequired": 100,
+          "energyCost": 10
+        },
+        {
+          "name": "Stone Surge",
+          "type": "Earth",
+          "damage": 62,
+          "power": 82,
+          "expRequired": 200,
+          "energyCost": 15
+        }
+      ],
+      "specialMoves": [
+        {
+          "name": "Cataclysmic Crush",
+          "type": "Earth",
+          "damage": 72,
+          "power": 92,
+          "energyCost": 20,
+          "expRequired": 300
+        },
+        {
+          "name": "Molten Mayhem",
+          "type": "Earth",
+          "damage": 82,
+          "power": 102,
+          "energyCost": 25,
+          "expRequired": 400
+        }
+      ],
+      "maxEP": 100,
+      "transform": "https://graph.org/file/43313ad441950420e2c04.jpg"
+    },
+{
+  "name": "Narwhaddle",
+  "type": "Ice",
+  "imageLink": "https://telegra.ph/file/3410e3352278eb5e29ece.jpg",
+  "baseStats": {
+    "attack": 40,
+    "defense": 34,
+    "speed": 42,
+    "HP": 45
+  },
+  "basicMove": {
+    "name": "Frosty Jab",
+    "type": "Ice",
+    "damage": 20,
+    "power": 30,
+    "expRequired": 0,
+    "energyCost": 5
+  },
+  "normalMoves": [
+    {
+      "name": "Icicle Spear",
+      "type": "Ice",
+      "damage": 40,
+      "power": 50,
+      "expRequired": 100,
+      "energyCost": 10
+    },
+    {
+      "name": "Glacial Slam",
+      "type": "Ice",
+      "damage": 60,
+      "power": 70,
+      "expRequired": 200,
+      "energyCost": 15
+    }
+  ],
+  "specialMoves": [
+    {
+      "name": "Blizzard Surge",
+      "type": "Ice",
+      "damage": 80,
+      "power": 100,
+      "energyCost": 20,
+      "expRequired": 300
+    },
+    {
+      "name": "Frozen Whirlpool",
+      "type": "Ice",
+      "damage": 100,
+      "power": 120,
+      "energyCost": 25,
+      "expRequired": 400
+    }
+  ],
+  "maxEP": 100,
+  "transform": "https://telegra.ph/file/7fe3e6bd1356ba0b6fb01.jpg"
+},
+{
+  "name": "Tenasher",
+  "type": "Air",
+  "imageLink": "https://telegra.ph/file/6eab9a47adb120f415c20.jpg",
+  "baseStats": {
+    "attack": 45,
+    "defense": 37,
+    "speed": 35,
+    "HP": 40
+  },
+  "basicMove": {
+    "name": "Sky Slash",
+    "type": "Air",
+    "damage": 20,
+    "power": 30,
+    "expRequired": 0,
+    "energyCost": 5
+  },
+  "normalMoves": [
+    {
+      "name": "Whirlwind Strike",
+      "type": "Air",
+      "damage": 40,
+      "power": 50,
+      "expRequired": 100,
+      "energyCost": 10
+    },
+    {
+      "name": "Aero Dance",
+      "type": "Air",
+      "damage": 60,
+      "power": 70,
+      "expRequired": 200,
+      "energyCost": 15
+    }
+  ],
+  "specialMoves": [
+    {
+      "name": "Cyclone Fury",
+      "type": "Air",
+      "damage": 80,
+      "power": 100,
+      "energyCost": 20,
+      "expRequired": 300
+    },
+    {
+      "name": "Tempest Whirl",
+      "type": "Air",
+      "damage": 100,
+      "power": 120,
+      "energyCost": 25,
+      "expRequired": 400
+    }
+  ],
+  "maxEP": 100,
+  "transform": "https://telegra.ph/file/f82cd89925fadbbb1cddf.jpg"
+},
+{
+  "name": "Midas",
+  "type": "Light",
+  "imageLink": "https://telegra.ph/file/b7cc2db4543a706d600c6.jpg",
+  "baseStats": {
+    "attack": 42,
+    "defense": 49,
+    "speed": 37,
+    "HP": 38
+  },
+  "basicMove": {
+    "name": "Golden Flash",
+    "type": "Light",
+    "damage": 20,
+    "power": 30,
+    "expRequired": 0,
+    "energyCost": 5
+  },
+  "normalMoves": [
+    {
+      "name": "Shine Strike",
+      "type": "Light",
+      "damage": 40,
+      "power": 50,
+      "expRequired": 100,
+      "energyCost": 10
+    },
+    {
+      "name": "Gilded Ray",
+      "type": "Light",
+      "damage": 60,
+      "power": 70,
+      "expRequired": 200,
+      "energyCost": 15
+    }
+  ],
+  "specialMoves": [
+    {
+      "name": "Divine Radiance",
+      "type": "Light",
+      "damage": 80,
+      "power": 100,
+      "energyCost": 20,
+      "expRequired": 300
+    },
+    {
+      "name": "Midas Touch",
+      "type": "Light",
+      "damage": 100,
+      "power": 120,
+      "energyCost": 25,
+      "expRequired": 400
+    }
+  ],
+  "maxEP": 100,
+  "transform": "https://telegra.ph/file/4df1ecc2664568d2ea48d.jpg"
+},
+{
+  "name": "Glowbyss",
+  "type": "Light",
+  "imageLink": "https://telegra.ph/file/f1bcbf85f0d01f9a41497.jpg",
+  "baseStats": {
+    "attack": 39,
+    "defense": 38,
+    "speed": 47,
+    "HP": 40
+  },
+  "basicMove": {
+    "name": "Luminous Beam",
+    "type": "Light",
+    "damage": 20,
+    "power": 30,
+    "expRequired": 0,
+    "energyCost": 5
+  },
+  "normalMoves": [
+    {
+      "name": "Radiant Burst",
+      "type": "Light",
+      "damage": 40,
+      "power": 50,
+      "expRequired": 100,
+      "energyCost": 10
+    },
+    {
+      "name": "Glowing Nova",
+      "type": "Light",
+      "damage": 60,
+      "power": 70,
+      "expRequired": 200,
+      "energyCost": 15
+    }
+  ],
+  "specialMoves": [
+    {
+      "name": "Celestial Flare",
+      "type": "Light",
+      "damage": 80,
+      "power": 100,
+      "energyCost": 20,
+      "expRequired": 300
+    },
+    {
+      "name": "Ethereal Radiance",
+      "type": "Light",
+      "damage": 100,
+      "power": 120,
+      "energyCost": 25,
+      "expRequired": 400
+    }
+  ],
+  "maxEP": 100,
+  "transform": "https://telegra.ph/file/520628a2bab9eca23247c.jpg"
+},
+{
+  "name": "Firenzar",
+  "type": "Flying",
+  "imageLink": "https://telegra.ph/file/ed421dabaf1b8b984cedf.jpg",
+  "baseStats": {
+    "attack": 38,
+    "defense": 42,
+    "speed": 49,
+    "HP": 35
+  },
+  "basicMove": {
+    "name": "Sky Blaze",
+    "type": "Flying",
+    "damage": 20,
+    "power": 30,
+    "expRequired": 0,
+    "energyCost": 5
+  },
+  "normalMoves": [
+    {
+      "name": "Aero Strike",
+      "type": "Flying",
+      "damage": 40,
+      "power": 50,
+      "expRequired": 100,
+      "energyCost": 10
+    },
+    {
+      "name": "Gust Whirlwind",
+      "type": "Flying",
+      "damage": 60,
+      "power": 70,
+      "expRequired": 200,
+      "energyCost": 15
+    }
+  ],
+  "specialMoves": [
+    {
+      "name": "Inferno Soar",
+      "type": "Flying",
+      "damage": 80,
+      "power": 90,
+      "energyCost": 20,
+      "expRequired": 300
+    },
+    {
+      "name": "Tempest Fury",
+      "type": "Flying",
+      "damage": 100,
+      "power": 110,
+      "energyCost": 25,
+      "expRequired": 400
+    }
+  ],
+  "maxEP": 100,
+  "transform": "https://telegra.ph/file/d994fe603ca1ec78bcf10.jpg"
+},
+{
+  "name": "Terrarix",
+  "type": "Earth",
+  "imageLink": "https://telegra.ph/file/5443482d4c5523142eacd.jpg",
+  "transform": "https://telegra.ph/file/d3a1e4931e1769385f280.jpg",
+  "baseStats": {
+    "attack": 45,
+    "defense": 42,
+    "speed": 38,
+    "HP": 47
+  },
+  "basicMove": {
+    "name": "Quake Punch",
+    "type": "Earth",
+    "damage": 20,
+    "power": 30,
+    "expRequired": 0,
+    "energyCost": 5
+  },
+  "normalMoves": [
+    {
+      "name": "Rockslide Slam",
+      "type": "Earth",
+      "damage": 40,
+      "power": 50,
+      "expRequired": 100,
+      "energyCost": 10
+    },
+    {
+      "name": "Tectonic Crush",
+      "type": "Earth",
+      "damage": 60,
+      "power": 70,
+      "expRequired": 200,
+      "energyCost": 15
+    }
+  ],
+  "specialMoves": [
+    {
+      "name": "Magma Quake",
+      "type": "Earth",
+      "damage": 80,
+      "power": 90,
+      "energyCost": 20,
+      "expRequired": 300
+    },
+    {
+      "name": "Gigantic Tremor",
+      "type": "Earth",
+      "damage": 100,
+      "power": 120,
+      "energyCost": 25,
+      "expRequired": 400
+    }
+  ],
+  "maxEP": 100
+},
+{
+  "name": "Spikeshade",
+  "type": "Water",
+  "imageLink": "https://telegra.ph/file/b0be23e961302203fd498.jpg",
+  "baseStats": {
+    "attack": 45,
+    "defense": 40,
+    "speed": 36,
+    "HP": 44
+  },
+  "basicMove": {
+    "name": "Aqua Spike",
+    "type": "Water",
+    "damage": 20,
+    "power": 30,
+    "expRequired": 0,
+    "energyCost": 5
+  },
+  "normalMoves": [
+    {
+      "name": "Torrential Thrust",
+      "type": "Water",
+      "damage": 40,
+      "power": 50,
+      "expRequired": 100,
+      "energyCost": 10
+    },
+    {
+      "name": "Hydro Slash",
+      "type": "Water",
+      "damage": 60,
+      "power": 70,
+      "expRequired": 200,
+      "energyCost": 15
+    }
+  ],
+  "specialMoves": [
+    {
+      "name": "Tidal Fury",
+      "type": "Water",
+      "damage": 80,
+      "power": 100,
+      "energyCost": 20,
+      "expRequired": 300
+    },
+    {
+      "name": "Riptide Barrage",
+      "type": "Water",
+      "damage": 100,
+      "power": 120,
+      "energyCost": 25,
+      "expRequired": 400
+    }
+  ],
+  "maxEP": 100,
+  "transform": "https://telegra.ph/file/90ed2605a414a84d7baee.jpg"
+}
+
+
+  ],
+  "elemental": [
+{
+  "name": "Earth Elemental",
+  "type": "Earth",
+  "imageLink": "https://telegra.ph/file/dc8ff3078b8c66b3a49d8.jpg",
+  "baseStats": {
+    "attack": 65,
+    "defense": 70,
+    "speed": 69,
+    "HP": 68
+  },
+  "basicMove": {
+    "name": "Terra Slam",
+    "type": "Earth",
+    "damage": 40,
+    "power": 50,
+    "expRequired": 0,
+    "energyCost": 5
+  },
+  "normalMoves": [
+    {
+      "name": "Quake Punch",
+      "type": "Earth",
+      "damage": 60,
+      "power": 70,
+      "expRequired": 100,
+      "energyCost": 10
+    },
+    {
+      "name": "Stone Crush",
+      "type": "Earth",
+      "damage": 80,
+      "power": 90,
+      "expRequired": 200,
+      "energyCost": 15
+    }
+  ],
+  "specialMoves": [
+    {
+      "name": "Magma Surge",
+      "type": "Earth",
+      "damage": 100,
+      "power": 120,
+      "energyCost": 20,
+      "expRequired": 300
+    },
+    {
+      "name": "Cataclysmic Smash",
+      "type": "Earth",
+      "damage": 120,
+      "power": 140,
+      "energyCost": 25,
+      "expRequired": 400
+    }
+  ],
+  "maxEP": 100,
+  "transform": "https://telegra.ph/file/e8131d159939e52099a08.jpg"
+},
+{
+  "name": "Air Elemental",
+  "type": "Air",
+  "imageLink": "https://telegra.ph/file/e8213da87e608bf412e91.jpg",
+  "baseStats": {
+    "attack": 69,
+    "defense": 71,
+    "speed": 72,
+    "HP": 70
+  },
+  "basicMove": {
+    "name": "Gale Burst",
+    "type": "Air",
+    "damage": 40,
+    "power": 50,
+    "expRequired": 0,
+    "energyCost": 5
+  },
+  "normalMoves": [
+    {
+      "name": "Whirlwind Slash",
+      "type": "Air",
+      "damage": 60,
+      "power": 70,
+      "expRequired": 100,
+      "energyCost": 10
+    },
+    {
+      "name": "Aero Blade",
+      "type": "Air",
+      "damage": 80,
+      "power": 90,
+      "expRequired": 200,
+      "energyCost": 15
+    }
+  ],
+  "specialMoves": [
+    {
+      "name": "Storm Surge",
+      "type": "Air",
+      "damage": 100,
+      "power": 120,
+      "energyCost": 20,
+      "expRequired": 300
+    },
+    {
+      "name": "Tempest Tornado",
+      "type": "Air",
+      "damage": 120,
+      "power": 140,
+      "energyCost": 25,
+      "expRequired": 400
+    }
+  ],
+  "maxEP": 100,
+  "transform": "https://telegra.ph/file/43492175cc6ac4ed35633.jpg"
+},
+{
+  "name": "Energy Elemental",
+  "type": "Light",
+  "imageLink": "https://telegra.ph/file/1f74ce9b97de41f896d67.jpg",
+  "transform": "https://telegra.ph/file/0bcf2a641961e12979b6c.jpg",
+  "baseStats": {
+    "attack": 70,
+    "defense": 68,
+    "speed": 65,
+    "HP": 69
+  },
+  "basicMove": {
+    "name": "Illumination Beam",
+    "type": "Light",
+    "damage": 40,
+    "power": 50,
+    "expRequired": 0,
+    "energyCost": 5
+  },
+  "normalMoves": [
+    {
+      "name": "Radiant Burst",
+      "type": "Light",
+      "damage": 60,
+      "power": 70,
+      "expRequired": 100,
+      "energyCost": 10
+    },
+    {
+      "name": "Luminous Wave",
+      "type": "Light",
+      "damage": 80,
+      "power": 90,
+      "expRequired": 200,
+      "energyCost": 15
+    }
+  ],
+  "specialMoves": [
+    {
+      "name": "Solar Flare",
+      "type": "Light",
+      "damage": 100,
+      "power": 120,
+      "energyCost": 20,
+      "expRequired": 300
+    },
+    {
+      "name": "Celestial Nova",
+      "type": "Light",
+      "damage": 120,
+      "power": 140,
+      "energyCost": 25,
+      "expRequired": 400
+    }
+  ],
+  "maxEP": 100
+},
+{
+  "name": "Water Elemental",
+  "type": "Water",
+  "imageLink": "https://telegra.ph/file/8e62806825b076ec789b4.jpg",
+  "transform": "https://telegra.ph/file/ed24dcd47967f5982f260.jpg",
+  "baseStats": {
+    "attack": 72,
+    "defense": 68,
+    "speed": 70,
+    "HP": 65
+  },
+  "basicMove": {
+    "name": "Aqua Surge",
+    "type": "Water",
+    "damage": 40,
+    "power": 50,
+    "expRequired": 0,
+    "energyCost": 5
+  },
+  "normalMoves": [
+    {
+      "name": "Tidal Blade",
+      "type": "Water",
+      "damage": 60,
+      "power": 70,
+      "expRequired": 100,
+      "energyCost": 10
+    },
+    {
+      "name": "Torrential Vortex",
+      "type": "Water",
+      "damage": 80,
+      "power": 90,
+      "expRequired": 200,
+      "energyCost": 15
+    }
+  ],
+  "specialMoves": [
+    {
+      "name": "Whirlpool Tsunami",
+      "type": "Water",
+      "damage": 100,
+      "power": 120,
+      "energyCost": 20,
+      "expRequired": 300
+    },
+    {
+      "name": "Oceanic Fury",
+      "type": "Water",
+      "damage": 120,
+      "power": 140,
+      "energyCost": 25,
+      "expRequired": 400
+    }
+  ],
+  "maxEP": 100
+},
+{
+  "name": "Fire Elemental",
+  "type": "Fire",
+  "imageLink": "https://telegra.ph/file/d2926c0c7fc51d866c43f.jpg",
+  "transform": "https://telegra.ph/file/7c18197794f70003c30db.jpg",
+  "baseStats": {
+    "attack": 77,
+    "defense": 79,
+    "speed": 75,
+    "HP": 80
+  },
+  "basicMove": {
+    "name": "Inferno Blaze",
+    "type": "Fire",
+    "damage": 40,
+    "power": 50,
+    "expRequired": 0,
+    "energyCost": 5
+  },
+  "normalMoves": [
+    {
+      "name": "Flame Burst",
+      "type": "Fire",
+      "damage": 60,
+      "power": 70,
+      "expRequired": 100,
+      "energyCost": 10
+    },
+    {
+      "name": "Scorching Spiral",
+      "type": "Fire",
+      "damage": 80,
+      "power": 90,
+      "expRequired": 200,
+      "energyCost": 15
+    }
+  ],
+  "specialMoves": [
+    {
+      "name": "Pyroclasmic Eruption",
+      "type": "Fire",
+      "damage": 100,
+      "power": 120,
+      "energyCost": 20,
+      "expRequired": 300
+    },
+    {
+      "name": "Blazing Inferno",
+      "type": "Fire",
+      "damage": 120,
+      "power": 140,
+      "energyCost": 25,
+      "expRequired": 400
+    }
+  ],
+  "maxEP": 100
+},
+{
+  "name": "Electric Elemental",
+  "type": "Electric",
+  "imageLink": "https://telegra.ph/file/820322acb46b35296e61d.jpg",
+  "transform": "https://telegra.ph/file/d05c105318b456a37d015.jpg",
+  "baseStats": {
+    "attack": 70,
+    "defense": 72,
+    "speed": 71,
+    "HP": 68
+  },
+  "basicMove": {
+    "name": "Thunderbolt Strike",
+    "type": "Electric",
+    "damage": 40,
+    "power": 50,
+    "expRequired": 0,
+    "energyCost": 5
+  },
+  "normalMoves": [
+    {
+      "name": "Voltage Surge",
+      "type": "Electric",
+      "damage": 60,
+      "power": 70,
+      "expRequired": 100,
+      "energyCost": 10
+    },
+    {
+      "name": "Zap Whirlwind",
+      "type": "Electric",
+      "damage": 80,
+      "power": 90,
+      "expRequired": 200,
+      "energyCost": 15
+    }
+  ],
+  "specialMoves": [
+    {
+      "name": "Thunderstorm Fury",
+      "type": "Electric",
+      "damage": 100,
+      "power": 120,
+      "energyCost": 20,
+      "expRequired": 300
+    },
+    {
+      "name": "Electro Surge",
+      "type": "Electric",
+      "damage": 120,
+      "power": 140,
+      "energyCost": 25,
+      "expRequired": 400
+    }
+  ],
+  "maxEP": 100
+},
+{
+  "name": "Ice Elemental",
+  "type": "Ice",
+  "imageLink": "https://telegra.ph/file/c02110dbc472d88d40c62.jpg",
+  "transform": "https://telegra.ph/file/a8663a6806b3644495b13.jpg",
+  "baseStats": {
+    "attack": 73,
+    "defense": 71,
+    "speed": 70,
+    "HP": 72
+  },
+  "basicMove": {
+    "name": "Frostbite Slash",
+    "type": "Ice",
+    "damage": 40,
+    "power": 50,
+    "expRequired": 0,
+    "energyCost": 5
+  },
+  "normalMoves": [
+    {
+      "name": "Glacial Strike",
+      "type": "Ice",
+      "damage": 60,
+      "power": 70,
+      "expRequired": 100,
+      "energyCost": 10
+    },
+    {
+      "name": "Icy Cyclone",
+      "type": "Ice",
+      "damage": 80,
+      "power": 90,
+      "expRequired": 200,
+      "energyCost": 15
+    }
+  ],
+  "specialMoves": [
+    {
+      "name": "Polar Vortex",
+      "type": "Ice",
+      "damage": 100,
+      "power": 120,
+      "energyCost": 20,
+      "expRequired": 300
+    },
+    {
+      "name": "Frozen Fury",
+      "type": "Ice",
+      "damage": 120,
+      "power": 140,
+      "energyCost": 25,
+      "expRequired": 400
+    }
+  ],
+  "maxEP": 100
+},
+{
+  "name": "Plant Elemental",
+  "type": "Plant",
+  "imageLink": "https://telegra.ph/file/f8157c050c59821e5c6e3.jpg",
+  "transform": "https://telegra.ph/file/a0aa0b29bf45b30dd141e.jpg",
+  "baseStats": {
+    "attack": 69,
+    "defense": 72,
+    "speed": 70,
+    "HP": 71
+  },
+  "basicMove": {
+    "name": "Vine Whip",
+    "type": "Plant",
+    "damage": 40,
+    "power": 50,
+    "expRequired": 0,
+    "energyCost": 5
+  },
+  "normalMoves": [
+    {
+      "name": "Leaf Blade",
+      "type": "Plant",
+      "damage": 60,
+      "power": 70,
+      "expRequired": 100,
+      "energyCost": 10
+    },
+    {
+      "name": "Blossom Storm",
+      "type": "Plant",
+      "damage": 80,
+      "power": 90,
+      "expRequired": 200,
+      "energyCost": 15
+    }
+  ],
+  "specialMoves": [
+    {
+      "name": "Photosynthesis Beam",
+      "type": "Plant",
+      "damage": 100,
+      "power": 120,
+      "energyCost": 20,
+      "expRequired": 300
+    },
+    {
+      "name": "Nature's Wrath",
+      "type": "Plant",
+      "damage": 120,
+      "power": 140,
+      "energyCost": 25,
+      "expRequired": 400
+    }
+  ],
+  "maxEP": 100
+},
+{
+  "name": "Psychic Elemental",
+  "type": "Psychic",
+  "imageLink": "https://telegra.ph/file/ae7bdbafca13f7d594152.jpg",
+  "transform": "https://telegra.ph/file/101271ad5404a839ce9f6.jpg",
+  "baseStats": {
+    "attack": 70,
+    "defense": 73,
+    "speed": 75,
+    "HP": 68
+  },
+  "basicMove": {
+    "name": "Mind Blast",
+    "type": "Psychic",
+    "damage": 40,
+    "power": 50,
+    "expRequired": 0,
+    "energyCost": 5
+  },
+  "normalMoves": [
+    {
+      "name": "Telekinetic Wave",
+      "type": "Psychic",
+      "damage": 60,
+      "power": 70,
+      "expRequired": 100,
+      "energyCost": 10
+    },
+    {
+      "name": "Psycho Shield",
+      "type": "Psychic",
+      "damage": 80,
+      "power": 90,
+      "expRequired": 200,
+      "energyCost": 15
+    }
+  ],
+  "specialMoves": [
+    {
+      "name": "Mind Overload",
+      "type": "Psychic",
+      "damage": 100,
+      "power": 120,
+      "energyCost": 20,
+      "expRequired": 300
+    },
+    {
+      "name": "Psychic Surge",
+      "type": "Psychic",
+      "damage": 120,
+      "power": 140,
+      "energyCost": 25,
+      "expRequired": 400
+    }
+  ],
+  "maxEP": 100
+},
+{
+  "name": "Toxic Elemental",
+  "type": "Ghost",
+  "imageLink": "https://telegra.ph/file/83946749efe193809fc7b.jpg",
+  "transform": "https://telegra.ph/file/954a036b9f39e021c3100.jpg",
+  "baseStats": {
+    "attack": 71,
+    "defense": 69,
+    "speed": 70,
+    "HP": 74
+  },
+  "basicMove": {
+    "name": "Venomous Bite",
+    "type": "Ghost",
+    "damage": 40,
+    "power": 50,
+    "expRequired": 0,
+    "energyCost": 5
+  },
+  "normalMoves": [
+    {
+      "name": "Toxic Mist",
+      "type": "Ghost",
+      "damage": 60,
+      "power": 70,
+      "expRequired": 100,
+      "energyCost": 10
+    },
+    {
+      "name": "Haunting Scream",
+      "type": "Ghost",
+      "damage": 80,
+      "power": 90,
+      "expRequired": 200,
+      "energyCost": 15
+    }
+  ],
+  "specialMoves": [
+    {
+      "name": "Cursed Shadow",
+      "type": "Ghost",
+      "damage": 100,
+      "power": 120,
+      "energyCost": 20,
+      "expRequired": 300
+    },
+    {
+      "name": "Ethereal Drain",
+      "type": "Ghost",
+      "damage": 120,
+      "power": 140,
+      "energyCost": 25,
+      "expRequired": 400
+    }
+  ],
+  "maxEP": 100
+},
+{
+  "name": "Water Elemental Ghoul",
+  "type": "Water",
+  "imageLink": "https://telegra.ph/file/63f93db962997682391cc.jpg",
+  "transform": "https://telegra.ph/file/ba7fb657a85a344a65efe.jpg",
+  "baseStats": {
+    "attack": 72,
+    "defense": 70,
+    "speed": 68,
+    "HP": 75
+  },
+  "basicMove": {
+    "name": "Spectral Surge",
+    "type": "Water",
+    "damage": 40,
+    "power": 50,
+    "expRequired": 0,
+    "energyCost": 5
+  },
+  "normalMoves": [
+    {
+      "name": "Abyssal Crush",
+      "type": "Water",
+      "damage": 60,
+      "power": 70,
+      "expRequired": 100,
+      "energyCost": 10
+    },
+    {
+      "name": "Drowning Vortex",
+      "type": "Water",
+      "damage": 80,
+      "power": 90,
+      "expRequired": 200,
+      "energyCost": 15
+    }
+  ],
+  "specialMoves": [
+    {
+      "name": "Tidal Nightmare",
+      "type": "Water",
+      "damage": 100,
+      "power": 120,
+      "energyCost": 20,
+      "expRequired": 300
+    },
+    {
+      "name": "Ephemeral Deluge",
+      "type": "Water",
+      "damage": 120,
+      "power": 140,
+      "energyCost": 25,
+      "expRequired": 400
+    }
+  ],
+  "maxEP": 100
+},
+{
+  "name": "Air Elemental Ghoul",
+  "type": "Air",
+  "imageLink": "https://telegra.ph/file/d6dc22ce1c8dadfcd7d81.jpg",
+  "transform": "https://telegra.ph/file/11ad6c0e2b64267601583.jpg",
+  "baseStats": {
+    "attack": 70,
+    "defense": 68,
+    "speed": 72,
+    "HP": 73
+  },
+  "basicMove": {
+    "name": "Spectral Gale",
+    "type": "Air",
+    "damage": 40,
+    "power": 50,
+    "expRequired": 0,
+    "energyCost": 5
+  },
+  "normalMoves": [
+    {
+      "name": "Whirlwind Slash",
+      "type": "Air",
+      "damage": 60,
+      "power": 70,
+      "expRequired": 100,
+      "energyCost": 10
+    },
+    {
+      "name": "Cyclonic Burst",
+      "type": "Air",
+      "damage": 80,
+      "power": 90,
+      "expRequired": 200,
+      "energyCost": 15
+    }
+  ],
+  "specialMoves": [
+    {
+      "name": "Tempest Tornado",
+      "type": "Air",
+      "damage": 100,
+      "power": 120,
+      "energyCost": 20,
+      "expRequired": 300
+    },
+    {
+      "name": "Aerial Tempest",
+      "type": "Air",
+      "damage": 120,
+      "power": 140,
+      "energyCost": 25,
+      "expRequired": 400
+    }
+  ],
+  "maxEP": 100
+},
+{
+  "name": "Fire Elemental Ghoul",
+  "type": "Fire",
+  "imageLink": "https://telegra.ph/file/543072540882151730369.jpg",
+  "transform": "https://telegra.ph/file/499ae07cf50697299654a.jpg",
+  "baseStats": {
+    "attack": 85,
+    "defense": 82,
+    "speed": 83,
+    "HP": 80
+  },
+  "basicMove": {
+    "name": "Inferno Burst",
+    "type": "Fire",
+    "damage": 40,
+    "power": 50,
+    "expRequired": 0,
+    "energyCost": 5
+  },
+  "normalMoves": [
+    {
+      "name": "Flamestrike Slash",
+      "type": "Fire",
+      "damage": 60,
+      "power": 70,
+      "expRequired": 100,
+      "energyCost": 10
+    },
+    {
+      "name": "Scorching Roar",
+      "type": "Fire",
+      "damage": 80,
+      "power": 90,
+      "expRequired": 200,
+      "energyCost": 15
+    }
+  ],
+  "specialMoves": [
+    {
+      "name": "Pyroclasmic Eruption",
+      "type": "Fire",
+      "damage": 100,
+      "power": 120,
+      "energyCost": 20,
+      "expRequired": 300
+    },
+    {
+      "name": "Blazing Inferno",
+      "type": "Fire",
+      "damage": 120,
+      "power": 140,
+      "energyCost": 25,
+      "expRequired": 400
+    }
+  ],
+  "maxEP": 100
+}
+
+
+],
+  "boss": [
+    {
+      "name": "Enigmo",
+      "type": "Water",
+      "imageLink": "https://graph.org/file/ef9d64d5da253981eba96.jpg",
+      "baseStats": {
+        "attack": 50,
+        "defense": 50,
+        "speed": 50,
+        "HP": 50
+      },
+      "basicMove": {
+        "name": "Hydro Strike",
+        "type": "Water",
+        "damage": 70,
+        "power": 100,
+        "expRequired": 0,
+        "energyCost": 5
+      },
+      "normalMoves": [
+        {
+          "name": "Aqua Beam",
+          "type": "Water",
+          "damage": 90,
+          "power": 120,
+          "expRequired": 100,
+          "energyCost": 10
+        },
+        {
+          "name": "Tsunami Crush",
+          "type": "Water",
+          "damage": 110,
+          "power": 140,
+          "expRequired": 200,
+          "energyCost": 15
+        }
+      ],
+      "specialMoves": [
+        {
+          "name": "Maelstrom Fury",
+          "type": "Water",
+          "damage": 130,
+          "power": 160,
+          "energyCost": 20,
+          "expRequired": 300
+        },
+        {
+          "name": "Hydro Apocalypse",
+          "type": "Water",
+          "damage": 150,
+          "power": 180,
+          "energyCost": 25,
+          "expRequired": 400
+        }
+      ],
+      "maxEP": 100,
+      "transform": "https://graph.org/file/c817b0e8f9504d211cf0e.jpg"
+    },
+    {
+      "name": "Crystalyd",
+      "type": "Ice",
+      "imageLink": "https://graph.org/file/1c00118c82fb05565b2ff.jpg",
+      "baseStats": {
+        "attack": 50,
+        "defense": 50,
+        "speed": 50,
+        "HP": 50
+      },
+      "basicMove": {
+        "name": "Crystal Strike",
+        "type": "Ice",
+        "damage": 70,
+        "power": 100,
+        "expRequired": 0,
+        "energyCost": 5
+      },
+      "normalMoves": [
+        {
+          "name": "Ice Shatter",
+          "type": "Ice",
+          "damage": 90,
+          "power": 120,
+          "expRequired": 100,
+          "energyCost": 10
+        },
+        {
+          "name": "Diamond Storm",
+          "type": "Ice",
+          "damage": 110,
+          "power": 140,
+          "expRequired": 200,
+          "energyCost": 15
+        }
+      ],
+      "specialMoves": [
+        {
+          "name": "Glacial Fury",
+          "type": "Ice",
+          "damage": 130,
+          "power": 160,
+          "energyCost": 20,
+          "expRequired": 300
+        },
+        {
+          "name": "Absolute Zero",
+          "type": "Ice",
+          "damage": 150,
+          "power": 180,
+          "energyCost": 25,
+          "expRequired": 400
+        }
+      ],
+      "maxEP": 100,
+      "transform": "https://graph.org/file/867254e087cc5f4a9b056.jpg"
+    },
+    {
+      "name": "Slyren",
+      "type": "Psychic",
+      "imageLink": "https://graph.org/file/305a4ee8661ac20e4f56b.jpg",
+      "baseStats": {
+        "attack": 50,
+        "defense": 50,
+        "speed": 50,
+        "HP": 50
+      },
+      "basicMove": {
+        "name": "Mind Strike",
+        "type": "Psychic",
+        "damage": 70,
+        "power": 100,
+        "expRequired": 0,
+        "energyCost": 5
+      },
+      "normalMoves": [
+        {
+          "name": "Psionic Blast",
+          "type": "Psychic",
+          "damage": 90,
+          "power": 120,
+          "expRequired": 100,
+          "energyCost": 10
+        },
+        {
+          "name": "Telekinetic Fury",
+          "type": "Psychic",
+          "damage": 110,
+          "power": 140,
+          "expRequired": 200,
+          "energyCost": 15
+        }
+      ],
+      "specialMoves": [
+        {
+          "name": "Psycho Storm",
+          "type": "Psychic",
+          "damage": 130,
+          "power": 160,
+          "energyCost": 20,
+          "expRequired": 300
+        },
+        {
+          "name": "Mind Overload",
+          "type": "Psychic",
+          "damage": 150,
+          "power": 180,
+          "energyCost": 25,
+          "expRequired": 400
+        }
+      ],
+      "maxEP": 100,
+      "transform": "https://graph.org/file/39676b8c594789b518344.jpg"
+    },
+    {
+      "name": "Frogesmelter",
+      "type": "Fire",
+      "imageLink": "https://graph.org/file/dd588c629aa31f7687bfb.jpg",
+      "baseStats": {
+        "attack": 50,
+        "defense": 50,
+        "speed": 50,
+        "HP": 50
+      },
+      "basicMove": {
+        "name": "Inferno Strike",
+        "type": "Fire",
+        "damage": 70,
+        "power": 100,
+        "expRequired": 0,
+        "energyCost": 5
+      },
+      "normalMoves": [
+        {
+          "name": "Flame Eruption",
+          "type": "Fire",
+          "damage": 90,
+          "power": 120,
+          "expRequired": 100,
+          "energyCost": 10
+        },
+        {
+          "name": "Molten Fury",
+          "type": "Fire",
+          "damage": 110,
+          "power": 140,
+          "expRequired": 200,
+          "energyCost": 15
+        }
+      ],
+      "specialMoves": [
+        {
+          "name": "Pyroclasmic Storm",
+          "type": "Fire",
+          "damage": 130,
+          "power": 160,
+          "energyCost": 20,
+          "expRequired": 300
+        },
+        {
+          "name": "Inferno Apocalypse",
+          "type": "Fire",
+          "damage": 150,
+          "power": 180,
+          "energyCost": 25,
+          "expRequired": 400
+        }
+      ],
+      "maxEP": 100,
+      "transform": "https://graph.org/file/b7b72bd0ee8481a625557.jpg"
+    },
+    {
+      "name": "Thugglet",
+      "type": "Dark",
+      "imageLink": "https://graph.org/file/19fd6f9f7fa4acc3bea6a.jpg",
+      "baseStats": {
+        "attack": 50,
+        "defense": 50,
+        "speed": 50,
+        "HP": 50
+      },
+      "basicMove": {
+        "name": "Shadow Strike",
+        "type": "Dark",
+        "damage": 70,
+        "power": 100,
+        "expRequired": 0,
+        "energyCost": 5
+      },
+      "normalMoves": [
+        {
+          "name": "Dark Aura",
+          "type": "Dark",
+          "damage": 90,
+          "power": 120,
+          "expRequired": 100,
+          "energyCost": 10
+        },
+        {
+          "name": "Nightmare Fury",
+          "type": "Dark",
+          "damage": 110,
+          "power": 140,
+          "expRequired": 200,
+          "energyCost": 15
+        }
+      ],
+      "specialMoves": [
+        {
+          "name": "Eclipse Strike",
+          "type": "Dark",
+          "damage": 130,
+          "power": 160,
+          "energyCost": 20,
+          "expRequired": 300
+        },
+        {
+          "name": "Shadow Apocalypse",
+          "type": "Dark",
+          "damage": 150,
+          "power": 180,
+          "energyCost": 25,
+          "expRequired": 400
+        }
+      ],
+      "maxEP": 100,
+      "transform": "https://graph.org/file/b67e7d211abdbc43da19d.jpg"
+    },
+    {
+      "name": "Infurnus",
+      "type": "Fire",
+      "imageLink": "https://graph.org/file/4a0e0617d37fa851ed7ba.jpg",
+      "baseStats": {
+        "attack": 50,
+        "defense": 50,
+        "speed": 50,
+        "HP": 50
+      },
+      "basicMove": {
+        "name": "Ember Strike",
+        "type": "Fire",
+        "damage": 70,
+        "power": 100,
+        "expRequired": 0,
+        "energyCost": 5
+      },
+      "normalMoves": [
+        {
+          "name": "Fireball",
+          "type": "Fire",
+          "damage": 90,
+          "power": 120,
+          "expRequired": 100,
+          "energyCost": 10
+        },
+        {
+          "name": "Flame Burst",
+          "type": "Fire",
+          "damage": 110,
+          "power": 140,
+          "expRequired": 200,
+          "energyCost": 15
+        }
+      ],
+      "specialMoves": [
+        {
+          "name": "Inferno Blast",
+          "type": "Fire",
+          "damage": 130,
+          "power": 160,
+          "energyCost": 20,
+          "expRequired": 300
+        },
+        {
+          "name": "Magma Wave",
+          "type": "Fire",
+          "damage": 150,
+          "power": 180,
+          "energyCost": 25,
+          "expRequired": 400
+        }
+      ],
+      "maxEP": 100,
+      "transform": "https://graph.org/file/f344c67b4be4a1ccb0822.jpg"
+    },
+    {
+      "name": "Boon Doc",
+      "type": "Light",
+      "imageLink": "https://graph.org/file/bb63d2d33de1176458d7b.jpg",
+      "baseStats": {
+        "attack": 50,
+        "defense": 50,
+        "speed": 50,
+        "HP": 50
+      },
+      "basicMove": {
+        "name": "Vine Strike",
+        "type": "Plant",
+        "damage": 70,
+        "power": 100,
+        "expRequired": 0,
+        "energyCost": 5
+      },
+      "normalMoves": [
+        {
+          "name": "Photosynthesis",
+          "type": "Plant",
+          "damage": 90,
+          "power": 120,
+          "expRequired": 100,
+          "energyCost": 10
+        },
+        {
+          "name": "Thornstorm Fury",
+          "type": "Plant",
+          "damage": 110,
+          "power": 140,
+          "expRequired": 200,
+          "energyCost": 15
+        }
+      ],
+      "specialMoves": [
+        {
+          "name": "Flora Rage",
+          "type": "Plant",
+          "damage": 130,
+          "power": 160,
+          "energyCost": 20,
+          "expRequired": 300
+        },
+        {
+          "name": "Botanical Apocalypse",
+          "type": "Plant",
+          "damage": 150,
+          "power": 180,
+          "energyCost": 25,
+          "expRequired": 400
+        }
+      ],
+      "maxEP": 100,
+      "transform": "https://graph.org/file/307355a11011fec9e6758.jpg"
+    },
+    {
+      "name": "Rammstone",
+      "type": "Earth",
+      "imageLink": "https://graph.org/file/909737997898a03fb3cb9.jpg",
+      "baseStats": {
+        "attack": 50,
+        "defense": 50,
+        "speed": 50,
+        "HP": 50
+      },
+      "basicMove": {
+        "name": "Terra Strike",
+        "type": "Earth",
+        "damage": 70,
+        "power": 100,
+        "expRequired": 0,
+        "energyCost": 5
+      },
+      "normalMoves": [
+        {
+          "name": "Quake Slam",
+          "type": "Earth",
+          "damage": 90,
+          "power": 120,
+          "expRequired": 100,
+          "energyCost": 10
+        },
+        {
+          "name": "Stone Surge",
+          "type": "Earth",
+          "damage": 110,
+          "power": 140,
+          "expRequired": 200,
+          "energyCost": 15
+        }
+      ],
+      "specialMoves": [
+        {
+          "name": "Cataclysmic Crush",
+          "type": "Earth",
+          "damage": 130,
+          "power": 160,
+          "energyCost": 20,
+          "expRequired": 300
+        },
+        {
+          "name": "Molten Mayhem",
+          "type": "Earth",
+          "damage": 150,
+          "power": 180,
+          "energyCost": 25,
+          "expRequired": 400
+        }
+      ],
+      "maxEP": 100,
+      "transform": "https://graph.org/file/746832886130c3f07b517.jpg"
+    },
+    {
+      "name": "Armashelt",
+      "type": "Metal",
+      "imageLink": "https://graph.org/file/4f86d1f980d2707b33154.jpg",
+      "baseStats": {
+        "attack": 50,
+        "defense": 50,
+        "speed": 50,
+        "HP": 50
+      },
+      "basicMove": {
+        "name": "Metallic Strike",
+        "type": "Metal",
+        "damage": 70,
+        "power": 100,
+        "expRequired": 0,
+        "energyCost": 5
+      },
+      "normalMoves": [
+        {
+          "name": "Silver Slash",
+          "type": "Metal",
+          "damage": 90,
+          "power": 120,
+          "expRequired": 100,
+          "energyCost": 10
+        },
+        {
+          "name": "Iron Whirlwind",
+          "type": "Metal",
+          "damage": 110,
+          "power": 140,
+          "expRequired": 200,
+          "energyCost": 15
+        }
+      ],
+      "specialMoves": [
+        {
+          "name": "Titanium Tempest",
+          "type": "Metal",
+          "damage": 130,
+          "power": 160,
+          "energyCost": 20,
+          "expRequired": 300
+        },
+        {
+          "name": "Silverstorm Surge",
+          "type": "Metal",
+          "damage": 150,
+          "power": 180,
+          "energyCost": 25,
+          "expRequired": 400
+        }
+      ],
+      "maxEP": 100,
+      "transform": "https://graph.org/file/d8e8901b428a9f9dde525.jpg"
+    },
+    {
+      "name": "Pieper",
+      "type": "Dark",
+      "imageLink": "https://telegra.ph/file/966b15cb8998065c55434.jpg",
+      "baseStats": {
+        "attack": 50,
+        "defense": 50,
+        "speed": 50,
+        "HP": 50
+      },
+      "basicMove": {
+        "name": "Sonicwave",
+        "type": "Dark",
+        "damage": 40,
+        "power": 50,
+        "expRequired": 0,
+        "energyCost": 5
+      },
+      "normalMoves": [
+        {
+          "name": "Blastodrum",
+          "type": "Dark",
+          "damage": 75,
+          "power": 80,
+          "expRequired": 100,
+          "energyCost": 10
+        },
+        {
+          "name": "Hypnowave",
+          "type": "Dark",
+          "damage": 90,
+          "power": 100,
+          "expRequired": 200,
+          "energyCost": 15
+        }
+      ],
+      "specialMoves": [
+        {
+          "name": "Whistleer",
+          "type": "Dark",
+          "damage": 115,
+          "power": 90,
+          "energyCost": 20,
+          "expRequired": 300
+        },
+        {
+          "name": "Blammerang",
+          "type": "Dark",
+          "damage": 120,
+          "power": 110,
+          "energyCost": 25,
+          "expRequired": 400
+        }
+      ],
+      "maxEP": 100,
+      "transform": "https://telegra.ph/file/c2bdbe7aa7655fb98955b.jpg"
+    },
+    {
+      "name": "Roboslug",
+      "type": "Electric",
+      "imageLink": "https://telegra.ph/file/8d42909563fa6fb4dd195.jpg",
+      "baseStats": {
+        "attack": 52,
+        "defense": 58,
+        "speed": 47,
+        "HP": 50
+      },
+      "basicMove": {
+        "name": "Electric Shock",
+        "type": "Electric",
+        "damage": 30,
+        "power": 40,
+        "expRequired": 0,
+        "energyCost": 5
+      },
+      "normalMoves": [
+        {
+          "name": "Voltage Strike",
+          "type": "Electric",
+          "damage": 50,
+          "power": 50,
+          "expRequired": 100,
+          "energyCost": 10
+        },
+        {
+          "name": "Thunder Zap",
+          "type": "Electric",
+          "damage": 70,
+          "power": 60,
+          "expRequired": 200,
+          "energyCost": 15
+        }
+      ],
+      "specialMoves": [
+        {
+          "name": "Electro Surge",
+          "type": "Electric",
+          "damage": 90,
+          "power": 70,
+          "energyCost": 20,
+          "expRequired": 300
+        },
+        {
+          "name": "Power Overload",
+          "type": "Electric",
+          "damage": 110,
+          "power": 80,
+          "energyCost": 25,
+          "expRequired": 400
+        }
+      ],
+      "maxEP": 100,
+      "transform": "https://telegra.ph/file/ddcf05fce232357ae7152.jpg"
+    },
+{
+  "name": "Mimkey",
+  "type": "Unknown",
+  "imageLink": "https://telegra.ph/file/376535b2184aec83bb959.jpg",
+  "transform":"https://telegra.ph/file/376535b2184aec83bb959.jpg",
+  "baseStats": {
+    "attack": 55,
+    "defense": 49,
+    "speed": 59,
+    "HP": 45
+  },
+  "basicMove": {
+    "name": "Copy Cat",
+    "type": "Unknown",
+    "damage": "-",
+    "power": "-",
+    "expRequired": 0,
+    "energyCost": 5
+  },
+  "normalMoves": [
+  ],
+  "specialMoves": [
+  ],
+  "maxEP": 100
+}
+
+  ],
+  "blasters": [
+    {
+      "name": "Harbinger Firestorm",
+      "attack": 30,
+      "defense": -30,
+      "speed": 0,
+      "price": 1500,
+      "description": "Will Increase The Slug Attack Stats By 30% And Decrease Slug Defense Stats By 30%",
+      "category": "Rare",
+      "link": "https://graph.org/file/dcebdbb68d145c7b0ba5a.jpg"
+    },
+    {
+      "name": "Renegade Ultra QLC",
+      "attack": -20,
+      "defense": 20,
+      "speed": 0,
+      "price": 900,
+      "description": "Will Increase Slug Defense Stats By 20% And Decrease Attack Stats Slug By 20%",
+      "category": "Rare",
+      "link": "https://graph.org/file/9ac3c61e39695dcceed7f.jpg"
+    },
+    {
+      "name": "Ricochet Flash XVV",
+      "attack": 10,
+      "defense": -10,
+      "speed": 0,
+      "price": 500,
+      "description": "Will Increase Slug Attack Stats By 10% And Decrease Slug Defense Stats By 10%",
+      "category": "Normal",
+      "link": "https://graph.org/file/40b4a504dcfef2548ceca.jpg"
+    },
+    {
+      "name": "Sharpslinger Lightningbolt XD",
+      "attack": 15,
+      "defense": -10,
+      "speed": 0,
+      "price": 1400,
+      "description": "Will Increase Slug Attack Stats By 15% And Decrease Slug Defense Stats By 10%",
+      "category": "Rare",
+      "link": "https://graph.org/file/eb9809c134ecf7cef3045.jpg"
+    },
+    {
+      "name": "Spikebarrel PK",
+      "attack": 12,
+      "defense": -15,
+      "speed": 0,
+      "price": 700,
+      "description": "Will Increase Slug Attack Stats By 18% And Decrease Slug Defense Stats By 10%",
+      "category": "Normal",
+      "link": "https://graph.org/file/5ec26da0f53d2020490cb.jpg"
+    },
+    {
+      "name": "Twin Sparkwing SF Pro",
+      "attack": -30,
+      "defense": 0,
+      "speed": 50,
+      "price": 5000,
+      "description": "Will Increase Slug Speed Stats By 50% And Decrease Slug Attack Stats By 30% & By This Slug Can Become Mega Morph",
+      "category": "Boss",
+      "link": "https://graph.org/file/e9a725e96792f418f6318.jpg"
+    },
+    {
+      "name": "Vortex C7 Blue",
+      "attack": -25,
+      "defense": 25,
+      "speed": 0,
+      "price": 2000,
+      "description": "Will Increase Slug Defense Stats By 25% And Decrease Slug Attack Stats By 25%",
+      "category": "Normal",
+      "link": "https://graph.org/file/9142548a21f0d000411ce.jpg"
+    },
+    {
+      "name": "Wild Spectre VD",
+      "attack": 10,
+      "defense": -10,
+      "speed": 0,
+      "price": 800,
+      "description": "Will Increase Slug Attack Stats By 10% And Decrease Slug Defense Stats By 10%",
+      "category": "Normal",
+      "link": "https://graph.org/file/ff3733ec016b27560dbea.jpg"
+    },
+    {
+      "name": "X-Duty Takedown",
+      "attack": -10,
+      "defense": 10,
+      "speed": 0,
+      "price": 800,
+      "description": "Will Increase Slug Defense Stats By 10% And Decrease Slug Attack Stats By 10%",
+      "category": "Normal",
+      "link": "https://graph.org/file/6f00880295c873b5ecb78.jpg"
+    },
+    {
+      "name": "Enforcer Cyclone HTQ",
+      "attack": 0,
+      "defense": -30,
+      "speed": 50,
+      "price": 5000,
+      "description": "Will Increase Slug Speed Stats By 50% And Decrease Slug Defense Stats By 30% & By This Slug Can Become Mega Morph",
+      "category": "Boss",
+      "link": "https://graph.org/file/7d4e5b18dda88cf116f1d.jpg"
+    }
+  ],
+  "morph": [
+    {
+      "Link": "https://graph.org/file/a2f9e336816412749ea70.jpg",
+      "Transform": "https://graph.org/file/2f7f96ab59f06adc941d8.jpg",
+      "Name": "Vinedrill",
+      "Stone": "Vindrilloph"
+    },
+    {
+      "Link": "https://graph.org/file/68b8b60e3d9ce853467d1.jpg",
+      "Transform": "https://graph.org/file/51d79dbbf8403dac06d95.jpg",
+      "Name": "Aquabeek",
+      "Stone": "Aquanomorph"
+    },
+    {
+      "Link": "https://graph.org/file/6a53398465db4933cfa2d.jpg",
+      "Transform": "https://graph.org/file/a784f9389f295646aea88.jpg",
+      "Name": "Arachnet",
+      "Stone": "Arachnomorph"
+    },
+    {
+      "Link": "https://graph.org/file/8a4e1e4abb937c3fda2eb.jpg",
+      "Transform": "https://graph.org/file/2c4fc1572d0de72d39560.jpg",
+      "Name": "Armashelt",
+      "Stone": "Armamorph"
+    },
+    {
+      "Link": "https://graph.org/file/db10467e1976114453c85.jpg",
+      "Transform": "https://graph.org/file/4e018f7f83fb309de6866.jpg",
+      "Name": "Bubbaleone",
+      "Stone": "Bubbaleomorph"
+    },
+    {
+      "Link": "https://telegra.ph/file/58293d173b1c9a97f2635.jpg",
+      "Transform": "https://telegra.ph/file/c8bb1460f93c18a1bf5d2.jpg",
+      "Name": "Pieper",
+      "Stone": "Pieperorph"
+    },
+    {
+      "Link": "https://graph.org/file/3d0511dc2591f9d73e639.jpg",
+      "Transform": "https://graph.org/file/21d8635613719f71f551b.jpg",
+      "Name": "Crystalyd",
+      "Stone": "Crystalomorph"
+    },
+    {
+      "Link": "https://graph.org/file/375a8a587a4c4314280a0.jpg",
+      "Transform": "https://graph.org/file/380b5d8643eb0aded1e0d.jpg",
+      "Name": "DirtUrchin",
+      "Stone": "Dirttinomorph"
+    },
+    {
+      "Link": "https://graph.org/file/e42ff7101ba45caeb4ab1.jpg",
+      "Transform": "https://graph.org/file/23821986fa907d56fa473.jpg",
+      "Name": "Flaringo",
+      "Stone": "Flarinomorph"
+    },
+    {
+      "Link": "https://graph.org/file/e251b539c43b07944d0a5.jpg",
+      "Transform": "https://graph.org/file/95bf3875a1825fbe64778.jpg",
+      "Name": "Flatulorhinkus",
+      "Stone": "Flatulomorph"
+    },
+    {
+      "Link": "https://graph.org/file/4f042809e7e9d3c6693e1.jpg",
+      "Transform": "https://graph.org/file/54b48236246c99dae54cf.jpg",
+      "Name": "HopRock",
+      "Stone": "Hopromorph"
+    },
+    {
+      "Link": "https://graph.org/file/ce869d41716bdd124736a.jpg",
+      "Transform": "https://graph.org/file/97566ac1c013240eb81bb.jpg",
+      "Name": "Frostcrawler",
+      "Stone": "Forstomorph"
+    },
+    {
+      "Link": "https://graph.org/file/825b90f43290304ebac3e.jpg",
+      "Transform": "https://telegra.ph/file/a31d52c145ee9e94b72a6.jpg",
+      "Name": "Infurnus",
+      "Stone": "Infurnomorph X"
+    },
+    {
+      "Link": "https://graph.org/file/9397e774896d4f8cc3d04.jpg",
+      "Transform": "https://graph.org/file/86016870c3620ce88fbbf.jpg",
+      "Name": "Infurnus",
+      "Stone": "Infurnomorph Y"
+    },
+    {
+      "Link": "https://graph.org/file/61c2a2489572b2a723168.jpg",
+      "Transform": "https://graph.org/file/d5d5ff48f5b65b8ef0790.jpg",
+      "Name": "Jellyfish",
+      "Stone": "Jellynomorph"
+    },
+    {
+      "Link": "https://graph.org/file/94a19698775afa3a2d16e.jpg",
+      "Transform": "https://graph.org/file/5e33696034c1f436c59e3.jpg",
+      "Name": "Polero",
+      "Stone": "Polenomorph"
+    },
+    {
+      "Link": "https://graph.org/file/e1b2b4e468f53489db01e.jpg",
+      "Transform": "https://graph.org/file/85871d30ebdaf9863c93a.jpg",
+      "Name": "Rammstone",
+      "Stone": "Rammnomorph"
+    },
+    {
+      "Link": "https://graph.org/file/91f47160393a7c8fe9986.jpg",
+      "Transform": "https://graph.org/file/d7857a980cc89eace2124.jpg",
+      "Name": "Speedstinger",
+      "Stone": "Speedstinomorph"
+    },
+    {
+      "Link": "https://telegra.ph/file/fba86f00a243be83e21d6.jpg",
+      "Transform": "https://telegra.ph/file/fd1a8ecd59a26bde926a9.jpg",
+      "Name": "Goon doc",
+      "Stone": "Goondocorph"
+    },
+    {
+      "Link": "https://graph.org/file/d3c128e251407969fe59e.jpg",
+      "Transform": "https://graph.org/file/0e299d77a320ac6bb8920.jpg",
+      "Name": "Tormato",
+      "Stone": "Tormadomorph"
+    },
+    {
+      "Link": "https://telegra.ph/file/b39c91573653835b5b964.jpg",
+      "Transform": "https://telegra.ph/file/61a93da9800ee1e486a2b.jpg",
+      "Name": "Narwhaddle",
+      "Stone": "Narwhaddlorph"
+    },
+    {
+      "Link": "https://telegra.ph/file/840ec00b1448e6adb1e97.jpg",
+      "Transform": "https://telegra.ph/file/7a776701cc6dfe4e67793.jpg",
+      "Name": "Attcknet",
+      "Stone": "Attacknetorph"
+    },
+    {
+      "Link": "https://telegra.ph/file/f822567ab18c4bc3ec4c9.jpg",
+      "Transform": "https://telegra.ph/file/1ea839643185bcd54fdcd.jpg",
+      "Name": "Bubblash",
+      "Stone": "Bubblaehoeph"
+    },
+    {
+      "Link": "https://telegra.ph/file/1ebfd742d755b9d43fa74.jpg",
+      "Transform": "https://telegra.ph/file/e8930f3fa332f1a298c53.jpg",
+      "Name": "Aquafreek",
+      "Stone": "Aquafreekorph"
+    },
+    {
+      "Link": "https://telegra.ph/file/c35b8a0376e43661f0c67.jpg",
+      "Transform": "https://telegra.ph/file/847355e5d7fa35739e967.jpg",
+      "Name": "Tempesto",
+      "Stone": "Tempestroph"
+    },
+    {
+      "Link": "https://telegra.ph/file/2574e6b73224940e79656.jpg",
+      "Transform": "https://telegra.ph/file/220e8a6421b8e87bfb415.jpg",
+      "Name": "Harmashelt",
+      "Stone": "Harmashetorph"
+    },
+    {
+      "Link": "https://telegra.ph/file/d513c19f91cab37c5cc63.jpg",
+      "Transform": "https://telegra.ph/file/70d4efa313301f83ca668.jpg",
+      "Name": "Grimmstone",
+      "Stone": "Grimmstonorph"
+    },
+    {
+      "Link": "https://graph.org/file/5e6e3f6c61335f2cb1ae4.jpg",
+      "Transform": "https://graph.org/file/8a04517ae6ad4f05a60a5.jpg",
+      "Name": "Tazerling",
+      "Stone": "Tazernomorph"
+    },
+    {
+      "Link": "https://telegra.ph/file/9d741220876d9bfdd48f1.jpg",
+      "Transform": "https://telegra.ph/file/0b5de5283be65e3af9067.jpg",
+      "Name": "Lariat",
+      "Stone": "Lariatorph"
+    },
+    {
+      "Link": "https://telegra.ph/file/3b8034084c30edd4a68d0.jpg",
+      "Transform": "https://telegra.ph/file/72f796f054b0b903a2b9c.jpg",
+      "Name": "Firenzar",
+      "Stone": "Firenzaroph"
+    }
+  ],
+  "ghouls": [
+    {
+      "name": "Amperling",
+      "type": "Dark",
+      "imageLink": "https://telegra.ph/file/5c16037074797d73ea521.jpg",
+      "transform": "https://telegra.ph/file/81c4e720c523608fafd5f.jpg",
+      "baseStats": {
+        "attack": 35,
+        "defense": 37,
+        "speed": 40,
+        "HP": 55
+      },
+      "basicMove": {
+        "name": "Ampershock",
+        "type": "Dark",
+        "damage": 35,
+        "power": 40,
+        "expRequired": 0
+      },
+      "normalMoves": [
+        {
+          "name": "Amperjolt",
+          "type": "Dark",
+          "damage": 60,
+          "power": 55,
+          "expRequired": 100
+        },
+        {
+          "name": "Fry-fi",
+          "type": "Dark",
+          "damage": 80,
+          "power": 70,
+          "expRequired": 200
+        }
+      ],
+      "specialMoves": [
+        {
+          "name": "Amperwing",
+          "type": "Dark",
+          "damage": 100,
+          "power": 90,
+          "expRequired": 300
+        },
+        {
+          "name": "Slugzapper",
+          "type": "Dark",
+          "damage": 120,
+          "power": 110,
+          "expRequired": 400
+        }
+      ]
+    },
+    {
+      "name": "Aquafreak",
+      "type": "Dark",
+      "imageLink": "https://telegra.ph/file/4856270c611f457a6d417.jpg",
+      "transform": "https://telegra.ph/file/2633750b8ab96c5320d8a.jpg",
+      "baseStats": {
+        "attack": 33,
+        "defense": 27,
+        "speed": 26,
+        "HP": 44
+      },
+      "basicMove": {
+        "name": "Waterpump",
+        "type": "Dark",
+        "damage": 45,
+        "power": 50,
+        "expRequired": 0
+      },
+      "normalMoves": [
+        {
+          "name": "Hydrogeek",
+          "type": "Dark",
+          "damage": 65,
+          "power": 60,
+          "expRequired": 100
+        },
+        {
+          "name": "Direhose",
+          "type": "Dark",
+          "damage": 85,
+          "power": 70,
+          "expRequired": 200
+        }
+      ],
+      "specialMoves": [
+        {
+          "name": "Squishbowl",
+          "type": "Dark",
+          "damage": 105,
+          "power": 80,
+          "expRequired": 300
+        },
+        {
+          "name": "Aquablade",
+          "type": "Dark",
+          "damage": 125,
+          "power": 90,
+          "expRequired": 400
+        }
+      ]
+    },
+    {
+      "name": "Attcknet",
+      "type": "Dark",
+      "imageLink": "https://telegra.ph/file/f6cbc63750612829acd42.jpg",
+      "transform": "https://telegra.ph/file/e653125ebd94b3934bbf0.jpg",
+      "baseStats": {
+        "attack": 37,
+        "defense": 30,
+        "speed": 27,
+        "HP": 34
+      },
+      "basicMove": {
+        "name": "Slashweb",
+        "type": "Dark",
+        "damage": 50,
+        "power": 60,
+        "expRequired": 0
+      },
+      "normalMoves": [
+        {
+          "name": "Slashnet",
+          "type": "Dark",
+          "damage": 70,
+          "power": 70,
+          "expRequired": 100
+        },
+        {
+          "name": "Slugtug",
+          "type": "Dark",
+          "damage": 90,
+          "power": 80,
+          "expRequired": 200
+        }
+      ],
+      "specialMoves": [
+        {
+          "name": "Teslacoil",
+          "type": "Dark",
+          "damage": 110,
+          "power": 90,
+          "expRequired": 300
+        },
+        {
+          "name": "Constrictor",
+          "type": "Dark",
+          "damage": 130,
+          "power": 100,
+          "expRequired": 400
+        }
+      ]
+    },
+    {
+      "name": "Barreto",
+      "type": "Dark",
+      "imageLink": "https://telegra.ph/file/d1b463e725ddc6d00c639.jpg",
+      "transform": "https://telegra.ph/file/56fa1d0b8ff3c80964494.jpg",
+      "baseStats": {
+        "attack": 30,
+        "defense": 33,
+        "speed": 42,
+        "HP": 32
+      },
+      "basicMove": {
+        "name": "Darkrop",
+        "type": "Dark",
+        "damage": 55,
+        "power": 50,
+        "expRequired": 0
+      },
+      "normalMoves": [
+        {
+          "name": "Diomite",
+          "type": "Dark",
+          "damage": 75,
+          "power": 70,
+          "expRequired": 100
+        },
+        {
+          "name": "Helochopper",
+          "type": "Dark",
+          "damage": 95,
+          "power": 80,
+          "expRequired": 200
+        }
+      ],
+      "specialMoves": [
+        {
+          "name": "Tufflink",
+          "type": "Dark",
+          "damage": 115,
+          "power": 90,
+          "expRequired": 300
+        },
+        {
+          "name": "Spyroblock",
+          "type": "Dark",
+          "damage": 135,
+          "power": 100,
+          "expRequired": 400
+        }
+      ]
+    },
+    {
+      "name": "Briardrill",
+      "type": "Dark",
+      "imageLink": "https://telegra.ph/file/efad570545feda310839b.jpg",
+      "transform": "https://telegra.ph/file/11a39ff5d55182b239bba.jpg",
+      "baseStats": {
+        "attack": 33,
+        "defense": 27,
+        "speed": 29,
+        "HP": 50
+      },
+      "basicMove": {
+        "name": "Rootscratch",
+        "type": "Dark",
+        "damage": 60,
+        "power": 55,
+        "expRequired": 0
+      },
+      "normalMoves": [
+        {
+          "name": "Firepants",
+          "type": "Dark",
+          "damage": 80,
+          "power": 70,
+          "expRequired": 100
+        },
+        {
+          "name": "Briarsnipe",
+          "type": "Dark",
+          "damage": 100,
+          "power": 80,
+          "expRequired": 200
+        }
+      ],
+      "specialMoves": [
+        {
+          "name": "Itchyscratch",
+          "type": "Dark",
+          "damage": 120,
+          "power": 90,
+          "expRequired": 300
+        },
+        {
+          "name": "Thornlash",
+          "type": "Dark",
+          "damage": 140,
+          "power": 100,
+          "expRequired": 400
+        }
+      ]
+    },
+    {
+      "name": "Bubbalash",
+      "type": "Dark",
+      "imageLink": "https://telegra.ph/file/374d0528ee887ace35b67.jpg",
+      "transform": "https://telegra.ph/file/67d2c4de0100fb83dfdd1.jpg",
+      "baseStats": {
+        "attack": 25,
+        "defense": 22,
+        "speed": 28,
+        "HP": 30
+      },
+      "basicMove": {
+        "name": "Jellyfreeze",
+        "type": "Dark",
+        "damage": 45,
+        "power": 50,
+        "expRequired": 0
+      },
+      "normalMoves": [
+        {
+          "name": "Trapball",
+          "type": "Dark",
+          "damage": 65,
+          "power": 60,
+          "expRequired": 100
+        },
+        {
+          "name": "Barbaloa",
+          "type": "Dark",
+          "damage": 85,
+          "power": 70,
+          "expRequired": 200
+        }
+      ],
+      "specialMoves": [
+        {
+          "name": "Flembaloo",
+          "type": "Dark",
+          "damage": 105,
+          "power": 80,
+          "expRequired": 300
+        },
+        {
+          "name": "Punchball",
+          "type": "Dark",
+          "damage": 125,
+          "power": 90,
+          "expRequired": 400
+        }
+      ]
+    },
+    {
+      "name": "Cryptogrif",
+      "type": "Psychic",
+      "imageLink": "https://telegra.ph/file/44c38e721ed118f25b401.jpg",
+      "transform": "https://telegra.ph/file/d6cbfd12adcab0c036782.jpg",
+      "baseStats": {
+        "attack": 32,
+        "defense": 26,
+        "speed": 30,
+        "HP": 35
+      },
+      "basicMove": {
+        "name": "Manipulation",
+        "type": "Psychic",
+        "damage": 45,
+        "power": 50,
+        "expRequired": 0
+      },
+      "normalMoves": [
+        {
+          "name": "Hypnotises",
+          "type": "Psychic",
+          "damage": 65,
+          "power": 60,
+          "expRequired": 100
+        },
+        {
+          "name": "Veritgruf",
+          "type": "Psychic",
+          "damage": 85,
+          "power": 70,
+          "expRequired": 200
+        }
+      ],
+      "specialMoves": [
+        {
+          "name": "Mindshlock",
+          "type": "Psychic",
+          "damage": 105,
+          "power": 80,
+          "expRequired": 300
+        },
+        {
+          "name": "Cryptoglif",
+          "type": "Psychic",
+          "damage": 125,
+          "power": 90,
+          "expRequired": 400
+        }
+      ]
+    },
+    {
+      "name": "DarkUrchin",
+      "type": "Dark",
+      "imageLink": "https://telegra.ph/file/134dc8a234e53c510bc57.jpg",
+      "transform": "https://telegra.ph/file/28fc01ea0dd3399a48e32.jpg",
+      "baseStats": {
+        "attack": 35,
+        "defense": 32,
+        "speed": 15,
+        "HP": 54
+      },
+      "basicMove": {
+        "name": "Needlespirit",
+        "type": "Dark",
+        "damage": 45,
+        "power": 50,
+        "expRequired": 0
+      },
+      "normalMoves": [
+        {
+          "name": "Sandspur",
+          "type": "Dark",
+          "damage": 65,
+          "power": 60,
+          "expRequired": 100
+        },
+        {
+          "name": "Weedzillo",
+          "type": "Dark",
+          "damage": 85,
+          "power": 70,
+          "expRequired": 200
+        }
+      ],
+      "specialMoves": [
+        {
+          "name": "Krictus",
+          "type": "Dark",
+          "damage": 105,
+          "power": 80,
+          "expRequired": 300
+        },
+        {
+          "name": "Thorngarten",
+          "type": "Dark",
+          "damage": 125,
+          "power": 90,
+          "expRequired": 400
+        }
+      ]
+    },
+    {
+      "name": "Blastinger",
+      "type": "Dark",
+      "imageLink": "https://telegra.ph/file/a3cbefcb76f28c478bb8f.jpg",
+      "transform": "https://telegra.ph/file/b10cf06e471620993b26c.jpg",
+      "baseStats": {
+        "attack": 47,
+        "defense": 49,
+        "speed": 45,
+        "HP": 47
+      },
+      "basicMove": {
+        "name": "Terrablast",
+        "type": "Dark",
+        "damage": 45,
+        "power": 50,
+        "expRequired": 0
+      },
+      "normalMoves": [
+        {
+          "name": "Quake slash",
+          "type": "Dark",
+          "damage": 65,
+          "power": 60,
+          "expRequired": 100
+        },
+        {
+          "name": "Cataclysmic bomb",
+          "type": "Dark",
+          "damage": 85,
+          "power": 70,
+          "expRequired": 200
+        }
+      ],
+      "specialMoves": [
+        {
+          "name": "Molten rush",
+          "type": "Dark",
+          "damage": 105,
+          "power": 80,
+          "expRequired": 300
+        },
+        {
+          "name": "Ricocheat",
+          "type": "Dark",
+          "damage": 125,
+          "power": 90,
+          "expRequired": 400
+        }
+      ]
+    },
+    {
+      "name": "Frostfang",
+      "type": "Dark",
+      "imageLink": "https://telegra.ph/file/052dfc89937a1fbad77a4.jpg",
+      "transform": "https://telegra.ph/file/8f4f10b44adc3a82da724.jpg",
+      "baseStats": {
+        "attack": 28,
+        "defense": 30,
+        "speed": 24,
+        "HP": 35
+      },
+      "basicMove": {
+        "name": "Dark Ice wall",
+        "type": "Dark",
+        "damage": 45,
+        "power": 50,
+        "expRequired": 0
+      },
+      "normalMoves": [
+        {
+          "name": "Flizzard",
+          "type": "Dark",
+          "damage": 65,
+          "power": 60,
+          "expRequired": 100
+        },
+        {
+          "name": "Mirrorshard",
+          "type": "Dark",
+          "damage": 85,
+          "power": 70,
+          "expRequired": 200
+        }
+      ],
+      "specialMoves": [
+        {
+          "name": "Creepfreeze",
+          "type": "Dark",
+          "damage": 105,
+          "power": 80,
+          "expRequired": 300
+        },
+        {
+          "name": "Slickcicle",
+          "type": "Dark",
+          "damage": 125,
+          "power": 90,
+          "expRequired": 400
+        }
+      ]
+    },
+    {
+      "name": "Greneater",
+      "type": "Fire",
+      "imageLink": "https://telegra.ph/file/bd6763777ecf0e20084c2.jpg",
+      "transform": "https://telegra.ph/file/b3e4774f011b1fc1fb6f5.jpg",
+      "baseStats": {
+        "attack": 36,
+        "defense": 25,
+        "speed": 26,
+        "HP": 51
+      },
+      "basicMove": {
+        "name": "Huge blast",
+        "type": "Fire",
+        "damage": 45,
+        "power": 50,
+        "expRequired": 0
+      },
+      "normalMoves": [
+        {
+          "name": "Fire explosion",
+          "type": "Fire",
+          "damage": 65,
+          "power": 60,
+          "expRequired": 100
+        },
+        {
+          "name": "Smushboom",
+          "type": "Fire",
+          "damage": 85,
+          "power": 70,
+          "expRequired": 200
+        }
+      ],
+      "specialMoves": [
+        {
+          "name": "Burrlock",
+          "type": "Fire",
+          "damage": 105,
+          "power": 80,
+          "expRequired": 300
+        },
+        {
+          "name": "Spikesploder",
+          "type": "Fire",
+          "damage": 125,
+          "power": 90,
+          "expRequired": 400
+        }
+      ]
+    },
+    {
+      "name": "HopJack",
+      "type": "Dark",
+      "imageLink": "https://telegra.ph/file/41f405e58328309aa3caf.jpg",
+      "transform": "https://telegra.ph/file/9f400b25881eea7ed0bf6.jpg",
+      "baseStats": {
+        "attack": 35,
+        "defense": 35,
+        "speed": 26,
+        "HP": 33
+      },
+      "basicMove": {
+        "name": "Rock blast",
+        "type": "Dark",
+        "damage": 45,
+        "power": 50,
+        "expRequired": 0
+      },
+      "normalMoves": [
+        {
+          "name": "Skizzler",
+          "type": "Dark",
+          "damage": 65,
+          "power": 60,
+          "expRequired": 100
+        },
+        {
+          "name": "Blastfield",
+          "type": "Dark",
+          "damage": 85,
+          "power": 70,
+          "expRequired": 200
+        }
+      ],
+      "specialMoves": [
+        {
+          "name": "Shrieknel",
+          "type": "Dark",
+          "damage": 105,
+          "power": 80,
+          "expRequired": 300
+        },
+        {
+          "name": "Blastrap",
+          "type": "Dark",
+          "damage": 125,
+          "power": 90,
+          "expRequired": 400
+        }
+      ]
+    },
+    {
+      "name": "Jollyfist",
+      "type": "Water",
+      "imageLink": "https://telegra.ph/file/264e74a1f73d507b62551.jpg",
+      "transform": "https://telegra.ph/file/cc7d75a90a1024bba744b.jpg",
+      "baseStats": {
+        "attack": 35,
+        "defense": 10,
+        "speed": 30,
+        "HP": 46
+      },
+      "basicMove": {
+        "name": "Oogi",
+        "type": "Water",
+        "damage": 45,
+        "power": 50,
+        "expRequired": 0
+      },
+      "normalMoves": [
+        {
+          "name": "GooBoar",
+          "type": "Water",
+          "damage": 65,
+          "power": 60,
+          "expRequired": 100
+        },
+        {
+          "name": "Ticktocksplat",
+          "type": "Water",
+          "damage": 85,
+          "power": 70,
+          "expRequired": 200
+        }
+      ],
+      "specialMoves": [
+        {
+          "name": "Exo-tox",
+          "type": "Water",
+          "damage": 105,
+          "power": 80,
+          "expRequired": 300
+        },
+        {
+          "name": "Jagtagger",
+          "type": "Water",
+          "damage": 125,
+          "power": 90,
+          "expRequired": 400
+        }
+      ]
+    },
+    {
+      "name": "Neurotox",
+      "type": "Poison",
+      "imageLink": "https://telegra.ph/file/d933aafdac766abd0c69c.jpg",
+      "transform": "https://telegra.ph/file/cde50904336091eb13ed1.jpg",
+      "baseStats": {
+        "attack": 28,
+        "defense": 28,
+        "speed": 28,
+        "HP": 42
+      },
+      "basicMove": {
+        "name": "Toxilime",
+        "type": "Poison",
+        "damage": 45,
+        "power": 50,
+        "expRequired": 0
+      },
+      "normalMoves": [
+        {
+          "name": "Toxic gas",
+          "type": "Poison",
+          "damage": 65,
+          "power": 60,
+          "expRequired": 100
+        },
+        {
+          "name": "Toxiclysm",
+          "type": "Poison",
+          "damage": 85,
+          "power": 70,
+          "expRequired": 200
+        }
+      ],
+      "specialMoves": [
+        {
+          "name": "Crustaloyd",
+          "type": "Poison",
+          "damage": 105,
+          "power": 80,
+          "expRequired": 300
+        },
+        {
+          "name": "Corroblast",
+          "type": "Poison",
+          "damage": 125,
+          "power": 90,
+          "expRequired": 400
+        }
+      ]
+    },
+    {
+      "name": "Photomo",
+      "type": "Electric",
+      "imageLink": "https://telegra.ph/file/37a59816d7e8859de2d8f.jpg",
+      "transform": "https://telegra.ph/file/f759c3dda267b26d6f267.jpg",
+      "baseStats": {
+        "attack": 24,
+        "defense": 27,
+        "speed": 40,
+        "HP": 52
+      },
+      "basicMove": {
+        "name": "Highlight",
+        "type": "Electric",
+        "damage": 45,
+        "power": 50,
+        "expRequired": 0
+      },
+      "normalMoves": [
+        {
+          "name": "Uv-radiation",
+          "type": "Electric",
+          "damage": 65,
+          "power": 60,
+          "expRequired": 100
+        },
+        {
+          "name": "Helioflare",
+          "type": "Electric",
+          "damage": 85,
+          "power": 70,
+          "expRequired": 200
+        }
+      ],
+      "specialMoves": [
+        {
+          "name": "X-Rave",
+          "type": "Electric",
+          "damage": 105,
+          "power": 80,
+          "expRequired": 300
+        },
+        {
+          "name": "Blightsource",
+          "type": "Electric",
+          "damage": 125,
+          "power": 90,
+          "expRequired": 400
+        }
+      ]
+    },
+    {
+      "name": "Pyringo",
+      "type": "Fire",
+      "imageLink": "https://telegra.ph/file/e8c3d874aa784ac98f9ff.jpg",
+      "transform": "https://telegra.ph/file/c2480f709d194fb303dd2.jpg",
+      "baseStats": {
+        "attack": 34,
+        "defense": 24,
+        "speed": 26,
+        "HP": 34
+      },
+      "basicMove": {
+        "name": "Fire crackers",
+        "type": "Fire",
+        "damage": 45,
+        "power": 50,
+        "expRequired": 0
+      },
+      "normalMoves": [
+        {
+          "name": "Fire shots",
+          "type": "Fire",
+          "damage": 65,
+          "power": 60,
+          "expRequired": 100
+        },
+        {
+          "name": "Beatseeker",
+          "type": "Fire",
+          "damage": 85,
+          "power": 70,
+          "expRequired": 200
+        }
+      ],
+      "specialMoves": [
+        {
+          "name": "Strafeguard",
+          "type": "Fire",
+          "damage": 105,
+          "power": 80,
+          "expRequired": 300
+        },
+        {
+          "name": "Beatwave",
+          "type": "Fire",
+          "damage": 125,
+          "power": 90,
+          "expRequired": 400
+        }
+      ]
+    },
+{
+  "name": "Thrasher",
+  "type": "Water",
+  "imageLink": "https://telegra.ph/file/b599fb0723538a861579a.jpg",
+  "transform": "https://telegra.ph/file/fdd7e20994b4958ed9605.jpg",
+  "baseStats": {
+    "attack": 39,
+    "defense": 37,
+    "speed": 42,
+    "HP": 40
+  },
+  "basicMove": {
+    "name": "Aqua Slash",
+    "type": "Water",
+    "damage": 20,
+    "power": 30,
+    "expRequired": 0,
+    "energyCost": 5
+  },
+  "normalMoves": [
+    {
+      "name": "Tsunami Strike",
+      "type": "Water",
+      "damage": 40,
+      "power": 50,
+      "expRequired": 100,
+      "energyCost": 10
+    },
+    {
+      "name": "Surfing Fury",
+      "type": "Water",
+      "damage": 60,
+      "power": 70,
+      "expRequired": 200,
+      "energyCost": 15
+    }
+  ],
+  "specialMoves": [
+    {
+      "name": "Hydro Whirlwind",
+      "type": "Water",
+      "damage": 80,
+      "power": 90,
+      "energyCost": 20,
+      "expRequired": 300
+    },
+    {
+      "name": "Maelstrom Crush",
+      "type": "Water",
+      "damage": 100,
+      "power": 120,
+      "energyCost": 25,
+      "expRequired": 400
+    }
+  ],
+  "maxEP": 100
+},
+{
+  "name": "Megabreaker",
+  "type": "Water",
+  "imageLink": "https://telegra.ph/file/b46d60aa8f0c1cec0c7df.jpg",
+  "transform": "https://telegra.ph/file/6d9d5ff409d0c1a584de4.jpg",
+  "baseStats": {
+    "attack": 41,
+    "defense": 40,
+    "speed": 37,
+    "HP": 43
+  },
+  "basicMove": {
+    "name": "Aqua Blast",
+    "type": "Water",
+    "damage": 20,
+    "power": 30,
+    "expRequired": 0,
+    "energyCost": 5
+  },
+  "normalMoves": [
+    {
+      "name": "Tidal Slash",
+      "type": "Water",
+      "damage": 40,
+      "power": 50,
+      "expRequired": 100,
+      "energyCost": 10
+    },
+    {
+      "name": "Riptide Strike",
+      "type": "Water",
+      "damage": 60,
+      "power": 70,
+      "expRequired": 200,
+      "energyCost": 15
+    }
+  ],
+  "specialMoves": [
+    {
+      "name": "Torrential Surge",
+      "type": "Water",
+      "damage": 80,
+      "power": 90,
+      "energyCost": 20,
+      "expRequired": 300
+    },
+    {
+      "name": "Hydro Vortex",
+      "type": "Water",
+      "damage": 100,
+      "power": 120,
+      "energyCost": 25,
+      "expRequired": 400
+    }
+  ],
+  "maxEP": 100
+},
+{
+  "name": "Lavamander",
+  "type": "Dark",
+  "imageLink": "https://telegra.ph/file/c27766011b0adc0fea6fd.jpg",
+  "transform": "https://telegra.ph/file/fefd0271614045e9cfd81.jpg",
+  "baseStats": {
+    "attack": 38,
+    "defense": 43,
+    "speed": 40,
+    "HP": 41
+  },
+  "basicMove": {
+    "name": "Inferno Claw",
+    "type": "Dark",
+    "damage": 20,
+    "power": 30,
+    "expRequired": 0,
+    "energyCost": 5
+  },
+  "normalMoves": [
+    {
+      "name": "Molten Slash",
+      "type": "Dark",
+      "damage": 40,
+      "power": 50,
+      "expRequired": 100,
+      "energyCost": 10
+    },
+    {
+      "name": "Scorching Burst",
+      "type": "Dark",
+      "damage": 60,
+      "power": 70,
+      "expRequired": 200,
+      "energyCost": 15
+    }
+  ],
+  "specialMoves": [
+    {
+      "name": "Lava Wave",
+      "type": "Dark",
+      "damage": 80,
+      "power": 90,
+      "energyCost": 20,
+      "expRequired": 300
+    },
+    {
+      "name": "Eruption Fury",
+      "type": "Dark",
+      "damage": 100,
+      "power": 120,
+      "energyCost": 25,
+      "expRequired": 400
+    }
+  ],
+  "maxEP": 100
+},
+{
+  "name": "Nagablade",
+  "type": "Dark",
+  "imageLink": "https://telegra.ph/file/7436b86bad08afe48c6ee.jpg",
+  "transform": "https://telegra.ph/file/c332913ddaa856220088d.jpg",
+  "baseStats": {
+    "attack": 40,
+    "defense": 38,
+    "speed": 42,
+    "HP": 43
+  },
+  "basicMove": {
+    "name": "Shadow Strike",
+    "type": "Dark",
+    "damage": 20,
+    "power": 30,
+    "expRequired": 0,
+    "energyCost": 5
+  },
+  "normalMoves": [
+    {
+      "name": "Venomous Whirl",
+      "type": "Dark",
+      "damage": 40,
+      "power": 50,
+      "expRequired": 100,
+      "energyCost": 10
+    },
+    {
+      "name": "Nightshade Slash",
+      "type": "Dark",
+      "damage": 60,
+      "power": 70,
+      "expRequired": 200,
+      "energyCost": 15
+    }
+  ],
+  "specialMoves": [
+    {
+      "name": "Eclipse Fang",
+      "type": "Dark",
+      "damage": 80,
+      "power": 90,
+      "energyCost": 20,
+      "expRequired": 300
+    },
+    {
+      "name": "Abyssal Whiplash",
+      "type": "Dark",
+      "damage": 100,
+      "power": 120,
+      "energyCost": 25,
+      "expRequired": 400
+    }
+  ],
+  "maxEP": 100
+},
+{
+  "name": "Hoverblade",
+  "type": "Dark",
+  "imageLink": "https://telegra.ph/file/4d77b20083a30ff5ce81b.jpg",
+  "transform": "https://telegra.ph/file/fa85d7477ad7fa4507248.jpg",
+  "baseStats": {
+    "attack": 41,
+    "defense": 37,
+    "speed": 40,
+    "HP": 38
+  },
+  "basicMove": {
+    "name": "Shadow Slash",
+    "type": "Dark",
+    "damage": 20,
+    "power": 30,
+    "expRequired": 0,
+    "energyCost": 5
+  },
+  "normalMoves": [
+    {
+      "name": "Nightfall Cut",
+      "type": "Dark",
+      "damage": 40,
+      "power": 50,
+      "expRequired": 100,
+      "energyCost": 10
+    },
+    {
+      "name": "Dusk Blade",
+      "type": "Dark",
+      "damage": 60,
+      "power": 70,
+      "expRequired": 200,
+      "energyCost": 15
+    }
+  ],
+  "specialMoves": [
+    {
+      "name": "Eclipse Slicer",
+      "type": "Dark",
+      "damage": 80,
+      "power": 90,
+      "energyCost": 20,
+      "expRequired": 300
+    },
+    {
+      "name": "Midnight Whirlwind",
+      "type": "Dark",
+      "damage": 100,
+      "power": 120,
+      "energyCost": 25,
+      "expRequired": 400
+    }
+  ],
+  "maxEP": 100
+},
+{
+  "name": "Goon Doc",
+  "type": "Ghost",
+  "imageLink": "https://telegra.ph/file/5469216508dd544b63691.jpg",
+  "transform": "https://telegra.ph/file/4cbb8ed590f37ad952b6c.jpg",
+  "baseStats": {
+    "attack": 42,
+    "defense": 44,
+    "speed": 38,
+    "HP": 43
+  },
+  "basicMove": {
+    "name": "Spectral Strike",
+    "type": "Ghost",
+    "damage": 20,
+    "power": 30,
+    "expRequired": 0,
+    "energyCost": 5
+  },
+  "normalMoves": [
+    {
+      "name": "Ectoplasmic Swipe",
+      "type": "Ghost",
+      "damage": 40,
+      "power": 50,
+      "expRequired": 100,
+      "energyCost": 10
+    },
+    {
+      "name": "Shadow Slash",
+      "type": "Ghost",
+      "damage": 60,
+      "power": 70,
+      "expRequired": 200,
+      "energyCost": 15
+    }
+  ],
+  "specialMoves": [
+    {
+      "name": "Phantom Surge",
+      "type": "Ghost",
+      "damage": 80,
+      "power": 90,
+      "energyCost": 20,
+      "expRequired": 300
+    },
+    {
+      "name": "Ghoul Grasp",
+      "type": "Ghost",
+      "damage": 100,
+      "power": 120,
+      "energyCost": 25,
+      "expRequired": 400
+    }
+  ],
+  "maxEP": 100
+},
+{
+  "name": "Tempesto",
+  "type": "Air",
+  "imageLink": "https://telegra.ph/file/870694186f913cd671f52.jpg",
+  "transform": "https://telegra.ph/file/57ea4b87672e54c47fb43.jpg",
+  "baseStats": {
+    "attack": 39,
+    "defense": 42,
+    "speed": 37,
+    "HP": 41
+  },
+  "basicMove": {
+    "name": "Aero Gust",
+    "type": "Air",
+    "damage": 20,
+    "power": 30,
+    "expRequired": 0,
+    "energyCost": 5
+  },
+  "normalMoves": [
+    {
+      "name": "Sky Slash",
+      "type": "Air",
+      "damage": 40,
+      "power": 50,
+      "expRequired": 100,
+      "energyCost": 10
+    },
+    {
+      "name": "Breeze Blade",
+      "type": "Air",
+      "damage": 60,
+      "power": 70,
+      "expRequired": 200,
+      "energyCost": 15
+    }
+  ],
+  "specialMoves": [
+    {
+      "name": "Cyclone Surge",
+      "type": "Air",
+      "damage": 80,
+      "power": 90,
+      "energyCost": 20,
+      "expRequired": 300
+    },
+    {
+      "name": "Tempest Tornado",
+      "type": "Air",
+      "damage": 100,
+      "power": 120,
+      "energyCost": 25,
+      "expRequired": 400
+    }
+  ],
+  "maxEP": 100
+}
+
+  ],
+"baby": [
+  {
+    "name": "Infurnus",
+    "type": "Fire",
+    "pic": "https://telegra.ph/file/ff2d09706d697c80177c8.jpg",
+    "available": true,
+    "moves": [
+      {
+        "name": "Blazing Fury",
+        "type": "Fire",
+        "damage": 120,
+        "power": 140,
+        "expRequired": 430
+      },
+      {
+        "name": "Inferno Burst",
+        "type": "Fire",
+        "damage": 110,
+        "power": 120,
+        "expRequired": 430
+      },
+      {
+        "name": "Pyroclasmic Eruption",
+        "type": "Fire",
+        "damage": 130,
+        "power": 160,
+        "expRequired": 430
+      }
+    ]
+  },
+  {
+    "name": "Flatulorhinkus",
+    "type": "Fire",
+    "pic": "https://telegra.ph/file/ebc3ef337c7a60412dd09.jpg",
+    "available": true,
+    "moves": [
+      {
+        "name": "Gas Blast",
+        "type": "Fire",
+        "damage": 120,
+        "power": 140,
+        "expRequired": 430
+      },
+      {
+        "name": "Fart Flame",
+        "type": "Fire",
+        "damage": 110,
+        "power": 120,
+        "expRequired": 430
+      },
+      {
+        "name": "Stink Wave",
+        "type": "Fire",
+        "damage": 130,
+        "power": 160,
+        "expRequired": 430
+      }
+    ]
+  },
+  {
+    "name": "Arachnet",
+    "type": "Dark",
+    "pic": "https://telegra.ph/file/f2d9b0a88b35340b1a0c6.jpg",
+    "available": true,
+    "moves": [
+      {
+        "name": "Shadow Web",
+        "type": "Dark",
+        "damage": 120,
+        "power": 140,
+        "expRequired": 430
+      },
+      {
+        "name": "Nightmare Sting",
+        "type": "Dark",
+        "damage": 110,
+        "power": 120,
+        "expRequired": 430
+      },
+      {
+        "name": "Eternal Darkness",
+        "type": "Dark",
+        "damage": 130,
+        "power": 160,
+        "expRequired": 430
+      }
+    ]
+  },
+  {
+    "name": "Armashelt",
+    "type": "Metal",
+    "pic": "https://telegra.ph/file/8581184c6134d4443b791.jpg",
+    "available": true,
+    "moves": [
+      {
+        "name": "Metallic Slam",
+        "type": "Metal",
+        "damage": 120,
+        "power": 140,
+        "expRequired": 430
+      },
+      {
+        "name": "Iron Shield",
+        "type": "Metal",
+        "damage": 110,
+        "power": 120,
+        "expRequired": 430
+      },
+      {
+        "name": "Titanic Crush",
+        "type": "Metal",
+        "damage": 130,
+        "power": 160,
+        "expRequired": 430
+      }
+    ]
+  },
+  {
+    "name": "Tormato",
+    "type": "Wind",
+    "pic": "https://telegra.ph/file/b7a6ee4e35337296f03dc.jpg",
+    "available": true,
+    "moves": [
+      {
+        "name": "Whirlwind Slash",
+        "type": "Wind",
+        "damage": 120,
+        "power": 140,
+        "expRequired": 430
+      },
+      {
+        "name": "Cyclonic Burst",
+        "type": "Wind",
+        "damage": 110,
+        "power": 120,
+        "expRequired": 430
+      },
+      {
+        "name": "Tempest Tornado",
+        "type": "Wind",
+        "damage": 130,
+        "power": 160,
+        "expRequired": 430
+      }
+    ]
+  },
+  {
+    "name": "Rammstone",
+    "type": "Earth",
+    "pic": "https://telegra.ph/file/a8883600efe5ed0e5fc84.jpg",
+    "available": true,
+    "moves": [
+      {
+        "name": "Quake Punch",
+        "type": "Earth",
+        "damage": 120,
+        "power": 140,
+        "expRequired": 430
+      },
+      {
+        "name": "Tectonic Crush",
+        "type": "Earth",
+        "damage": 110,
+        "power": 120,
+        "expRequired": 430
+      },
+      {
+        "name": "Gigantic Tremor",
+        "type": "Earth",
+        "damage": 130,
+        "power": 160,
+        "expRequired": 430
+      }
+    ]
+  },
+  {
+    "name": "Hoverbug",
+    "type": "Air",
+    "pic": "https://telegra.ph/file/08518f6f3c682eb3fc01d.jpg",
+    "available": true,
+    "moves": [
+      {
+        "name": "Aerial Assault",
+        "type": "Air",
+        "damage": 120,
+        "power": 140,
+        "expRequired": 430
+      },
+      {
+        "name": "Sky Slicer",
+        "type": "Air",
+        "damage": 110,
+        "power": 120,
+        "expRequired": 430
+      },
+      {
+        "name": "Whispering Wind",
+        "type": "Air",
+        "damage": 130,
+        "power": 160,
+        "expRequired": 430
+      }
+    ]
+  },
+  {
+    "name": "Frightgeist",
+    "type": "Dark",
+    "pic": "https://telegra.ph/file/4a82b451924979518061d.jpg",
+    "available": true,
+    "moves": [
+      {
+        "name": "Haunting Howl",
+        "type": "Dark",
+        "damage": 120,
+        "power": 140,
+        "expRequired": 430
+      },
+      {
+        "name": "Spectral Strike",
+        "type": "Dark",
+        "damage": 110,
+        "power": 120,
+        "expRequired": 430
+      },
+      {
+        "name": "Eerie Embrace",
+        "type": "Dark",
+        "damage": 130,
+        "power": 160,
+        "expRequired": 430
+      }
+    ]
+  },
+  {
+    "name": "Universal Slug",
+    "type": "Unknown",
+    "pic": "https://telegra.ph/file/95523b93907028029243e.jpg",
+    "available": true,
+    "moves": [
+      {
+        "name": "Mysterious Beam",
+        "type": "Unknown",
+        "damage": 120,
+        "power": 140,
+        "expRequired": 430
+      },
+      {
+        "name": "Dimensional Shift",
+        "type": "Unknown",
+        "damage": 110,
+        "power": 120,
+        "expRequired": 430
+      },
+      {
+        "name": "Enigma Wave",
+        "type": "Unknown",
+        "damage": 130,
+        "power": 160,
+        "expRequired": 430
+      }
+    ]
+  },
+  {
+    "name": "Tazerling",
+    "type": "Electric",
+    "pic": "https://telegra.ph/file/bbb7ab68e534147240a34.jpg",
+    "available": true,
+    "moves": [
+      {
+        "name": "Thunderbolt Strike",
+        "type": "Electric",
+        "damage": 120,
+        "power": 140,
+        "expRequired": 430
+      },
+      {
+        "name": "Voltage Surge",
+        "type": "Electric",
+        "damage": 110,
+        "power": 120,
+        "expRequired": 430
+      },
+      {
+        "name": "Electrostatic Shock",
+        "type": "Electric",
+        "damage": 130,
+        "power": 160,
+        "expRequired": 430
+      }
+    ]
+  }
+]
+
+}
