@@ -1,0 +1,16 @@
+user:
+  name: ashketchum-001
+  github: ashketchum-001
+
+language: "javascript"
+package_manager: npm
+
+commands:
+  build:
+    - "npm install telegraf"
+  start:
+    - "node dexbot.js"
+
+env:
+  - "ENVIRONMENT=production"
+  - "NODE_ENV=production"
