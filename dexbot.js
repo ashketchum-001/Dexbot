@@ -47,6 +47,32 @@ await ctx.telegram.setChatAdministratorCustomTitle(chatId,userId,title)
     }
 });
 
+// welcome.js
+
+// Import the readline module to read input from the terminal
+const readline = require('readline');
+
+// Create an interface for input and output
+const rl = readline.createInterface({
+    input: process.stdin,
+    output: process.stdout
+});
+
+// Function to welcome the user
+function welcomeUser() {
+    rl.question('I am a Dex Bot. i can give you details of slugs !!', (name) => {
+        console.log(Welcome, ${name}! I am a dex bot);
+        rl.close(); // Close the readline interface
+    });
+}
+
+// Call the function to start the welcome process
+welcomeUser();
+
+
+
+
+
 const effects = {
 "Flying": {                                                                        
 "Fire": 1,                                                                       
