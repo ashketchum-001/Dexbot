@@ -47,19 +47,6 @@ await ctx.telegram.setChatAdministratorCustomTitle(chatId,userId,title)
     }
 });
 
-// Listen for /start command
-bot.start((ctx) => {
-    const welcomeMessage = Welcome, ${ctx.from.first_name}! I am a Slugdex bot. i can give you details of slugs.;
-    
-    // Send the welcome message to the user
-    ctx.reply(welcomeMessage);
-});
-
-
-
-
-
-
 const effects = {
 "Flying": {                                                                        
 "Fire": 1,                                                                       
